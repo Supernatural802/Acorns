@@ -748,13 +748,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,100,217);
 (lib.phoneAnim115 = function() {
 	this.initialize(img.phoneAnim115);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,100,217);
-
-
-(lib.SIPC = function() {
-	this.initialize(img.SIPC);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,220,36);// helper functions:
+p.nominalBounds = new cjs.Rectangle(0,0,100,217);// helper functions:
 
 function mc_symbol_clone() {
 	var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop, this.reversed));
@@ -771,29 +765,6 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	prototype.frameBounds = frameBounds;
 	return prototype;
 	}
-
-
-(lib.Tween6 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_3
-	this.instance = new lib.SIPC();
-	this.instance.setTransform(-106,-9);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-106,-9,220,36);
 
 
 (lib.Tween4 = function(mode,startPosition,loop,reversed) {
@@ -4581,14 +4552,6 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(35).to({_off:false},0).to({x:356.7},17,cjs.Ease.quartInOut).wait(188));
 
-	// legal
-	this.instance_2 = new lib.Tween6("synched",0);
-	this.instance_2.setTransform(356,290.35);
-	this.instance_2.alpha = 0;
-	this.instance_2._off = true;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(42).to({_off:false},0).to({y:285.35,alpha:0.75},10,cjs.Ease.quadOut).wait(188));
-
 	// underline
 	this.shape_1 = new cjs.Shape();
 	this.shape_1.graphics.f().s("#FFFFFF").ss(1,2,1).p("AgSAAIAlAA");
@@ -4621,27 +4584,27 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_1}]},24).to({state:[{t:this.shape_2}]},1).to({state:[{t:this.shape_3}]},1).to({state:[{t:this.shape_4}]},1).to({state:[{t:this.shape_5}]},1).to({state:[{t:this.shape_6}]},1).to({state:[{t:this.shape_7,p:{x:102.5}}]},1).to({state:[{t:this.shape_7,p:{x:102.525}}]},1).to({state:[{t:this.shape_7,p:{x:102.525}}]},1).wait(208));
 
 	// copy3
-	this.instance_3 = new lib.Symbol5();
-	this.instance_3.setTransform(77.7,138.15,1.0968,1.0968);
+	this.instance_2 = new lib.Symbol5();
+	this.instance_2.setTransform(77.7,138.15,1.0968,1.0968);
+	this.instance_2.alpha = 0;
+	this.instance_2._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(11).to({_off:false},0).to({y:127.2,alpha:1},13,cjs.Ease.quartInOut).wait(216));
+
+	// copy2
+	this.instance_3 = new lib.Symbol3();
+	this.instance_3.setTransform(49.45,111.15,1.0968,1.0968);
 	this.instance_3.alpha = 0;
 	this.instance_3._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(11).to({_off:false},0).to({y:127.2,alpha:1},13,cjs.Ease.quartInOut).wait(216));
-
-	// copy2
-	this.instance_4 = new lib.Symbol3();
-	this.instance_4.setTransform(49.45,111.15,1.0968,1.0968);
-	this.instance_4.alpha = 0;
-	this.instance_4._off = true;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(6).to({_off:false},0).to({y:100.2,alpha:1},13,cjs.Ease.quartInOut).wait(221));
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(6).to({_off:false},0).to({y:100.2,alpha:1},13,cjs.Ease.quartInOut).wait(221));
 
 	// copy1
-	this.instance_5 = new lib.Symbol1();
-	this.instance_5.setTransform(51.4,84.2,1.0968,1.0968);
-	this.instance_5.alpha = 0;
+	this.instance_4 = new lib.Symbol1();
+	this.instance_4.setTransform(51.4,84.2,1.0968,1.0968);
+	this.instance_4.alpha = 0;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).to({y:73.2,alpha:1},13,cjs.Ease.quartInOut).wait(227));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({y:73.2,alpha:1},13,cjs.Ease.quartInOut).wait(227));
 
 	// cta
 	this.cta_mc = new lib.Tween8();
@@ -4652,19 +4615,19 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.cta_mc).wait(109).to({_off:false},0).to({y:295.65},9,cjs.Ease.backOut).wait(122));
 
 	// popup
-	this.instance_6 = new lib.Tween4("synched",0);
-	this.instance_6.setTransform(168.35,208.35);
-	this.instance_6.alpha = 0;
-	this.instance_6._off = true;
+	this.instance_5 = new lib.Tween4("synched",0);
+	this.instance_5.setTransform(168.35,208.35);
+	this.instance_5.alpha = 0;
+	this.instance_5._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(32).to({_off:false},0).to({y:198.35,alpha:1},10,cjs.Ease.backOut).wait(61).to({startPosition:0},0).to({y:150.35},10,cjs.Ease.cubicInOut).wait(127));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(32).to({_off:false},0).to({y:198.35,alpha:1},10,cjs.Ease.backOut).wait(61).to({startPosition:0},0).to({y:150.35},10,cjs.Ease.cubicInOut).wait(127));
 
 	// cup
-	this.instance_7 = new lib.Tween2("synched",0);
-	this.instance_7.setTransform(80,300);
-	this.instance_7._off = true;
+	this.instance_6 = new lib.Tween2("synched",0);
+	this.instance_6.setTransform(80,300);
+	this.instance_6._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).wait(13).to({_off:false},0).to({y:160},22,cjs.Ease.quartInOut).wait(68).to({startPosition:0},0).to({y:111.5},10,cjs.Ease.cubicInOut).wait(127));
+	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(13).to({_off:false},0).to({y:160},22,cjs.Ease.quartInOut).wait(68).to({startPosition:0},0).to({y:111.5},10,cjs.Ease.cubicInOut).wait(127));
 
 	// greenBK
 	this.shape_8 = new cjs.Shape();
@@ -4686,128 +4649,127 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/acornslogojpg.png?1630511474739", id:"acornslogojpg"},
-		{src:"images/cup.png?1630511474739", id:"cup"},
-		{src:"images/Group134.png?1630511474739", id:"Group134"},
-		{src:"images/iPhone11.png?1630511474739", id:"iPhone11"},
-		{src:"images/landscapeLegal.png?1630511474739", id:"landscapeLegal"},
-		{src:"images/phoneAnim000.jpg?1630511474739", id:"phoneAnim000"},
-		{src:"images/phoneAnim001.jpg?1630511474739", id:"phoneAnim001"},
-		{src:"images/phoneAnim002.jpg?1630511474739", id:"phoneAnim002"},
-		{src:"images/phoneAnim003.jpg?1630511474739", id:"phoneAnim003"},
-		{src:"images/phoneAnim004.jpg?1630511474739", id:"phoneAnim004"},
-		{src:"images/phoneAnim005.jpg?1630511474739", id:"phoneAnim005"},
-		{src:"images/phoneAnim006.jpg?1630511474739", id:"phoneAnim006"},
-		{src:"images/phoneAnim007.jpg?1630511474739", id:"phoneAnim007"},
-		{src:"images/phoneAnim008.jpg?1630511474739", id:"phoneAnim008"},
-		{src:"images/phoneAnim009.jpg?1630511474739", id:"phoneAnim009"},
-		{src:"images/phoneAnim010.jpg?1630511474739", id:"phoneAnim010"},
-		{src:"images/phoneAnim011.jpg?1630511474739", id:"phoneAnim011"},
-		{src:"images/phoneAnim012.jpg?1630511474739", id:"phoneAnim012"},
-		{src:"images/phoneAnim013.jpg?1630511474739", id:"phoneAnim013"},
-		{src:"images/phoneAnim014.jpg?1630511474739", id:"phoneAnim014"},
-		{src:"images/phoneAnim015.jpg?1630511474739", id:"phoneAnim015"},
-		{src:"images/phoneAnim016.jpg?1630511474739", id:"phoneAnim016"},
-		{src:"images/phoneAnim017.jpg?1630511474739", id:"phoneAnim017"},
-		{src:"images/phoneAnim018.jpg?1630511474739", id:"phoneAnim018"},
-		{src:"images/phoneAnim019.jpg?1630511474739", id:"phoneAnim019"},
-		{src:"images/phoneAnim020.jpg?1630511474739", id:"phoneAnim020"},
-		{src:"images/phoneAnim021.jpg?1630511474739", id:"phoneAnim021"},
-		{src:"images/phoneAnim022.jpg?1630511474739", id:"phoneAnim022"},
-		{src:"images/phoneAnim023.jpg?1630511474739", id:"phoneAnim023"},
-		{src:"images/phoneAnim024.jpg?1630511474739", id:"phoneAnim024"},
-		{src:"images/phoneAnim025.jpg?1630511474739", id:"phoneAnim025"},
-		{src:"images/phoneAnim026.jpg?1630511474739", id:"phoneAnim026"},
-		{src:"images/phoneAnim027.jpg?1630511474739", id:"phoneAnim027"},
-		{src:"images/phoneAnim028.jpg?1630511474739", id:"phoneAnim028"},
-		{src:"images/phoneAnim029.jpg?1630511474739", id:"phoneAnim029"},
-		{src:"images/phoneAnim030.jpg?1630511474739", id:"phoneAnim030"},
-		{src:"images/phoneAnim031.jpg?1630511474739", id:"phoneAnim031"},
-		{src:"images/phoneAnim032.jpg?1630511474739", id:"phoneAnim032"},
-		{src:"images/phoneAnim033.jpg?1630511474739", id:"phoneAnim033"},
-		{src:"images/phoneAnim034.jpg?1630511474739", id:"phoneAnim034"},
-		{src:"images/phoneAnim035.jpg?1630511474739", id:"phoneAnim035"},
-		{src:"images/phoneAnim036.jpg?1630511474739", id:"phoneAnim036"},
-		{src:"images/phoneAnim037.jpg?1630511474739", id:"phoneAnim037"},
-		{src:"images/phoneAnim038.jpg?1630511474739", id:"phoneAnim038"},
-		{src:"images/phoneAnim039.jpg?1630511474739", id:"phoneAnim039"},
-		{src:"images/phoneAnim040.jpg?1630511474739", id:"phoneAnim040"},
-		{src:"images/phoneAnim041.jpg?1630511474739", id:"phoneAnim041"},
-		{src:"images/phoneAnim042.jpg?1630511474739", id:"phoneAnim042"},
-		{src:"images/phoneAnim043.jpg?1630511474739", id:"phoneAnim043"},
-		{src:"images/phoneAnim044.jpg?1630511474739", id:"phoneAnim044"},
-		{src:"images/phoneAnim045.jpg?1630511474739", id:"phoneAnim045"},
-		{src:"images/phoneAnim046.jpg?1630511474739", id:"phoneAnim046"},
-		{src:"images/phoneAnim047.jpg?1630511474739", id:"phoneAnim047"},
-		{src:"images/phoneAnim048.jpg?1630511474739", id:"phoneAnim048"},
-		{src:"images/phoneAnim049.jpg?1630511474739", id:"phoneAnim049"},
-		{src:"images/phoneAnim050.jpg?1630511474739", id:"phoneAnim050"},
-		{src:"images/phoneAnim051.jpg?1630511474739", id:"phoneAnim051"},
-		{src:"images/phoneAnim052.jpg?1630511474739", id:"phoneAnim052"},
-		{src:"images/phoneAnim053.jpg?1630511474739", id:"phoneAnim053"},
-		{src:"images/phoneAnim054.jpg?1630511474739", id:"phoneAnim054"},
-		{src:"images/phoneAnim055.jpg?1630511474739", id:"phoneAnim055"},
-		{src:"images/phoneAnim056.jpg?1630511474739", id:"phoneAnim056"},
-		{src:"images/phoneAnim057.jpg?1630511474739", id:"phoneAnim057"},
-		{src:"images/phoneAnim058.jpg?1630511474739", id:"phoneAnim058"},
-		{src:"images/phoneAnim059.jpg?1630511474739", id:"phoneAnim059"},
-		{src:"images/phoneAnim060.jpg?1630511474739", id:"phoneAnim060"},
-		{src:"images/phoneAnim061.jpg?1630511474739", id:"phoneAnim061"},
-		{src:"images/phoneAnim062.jpg?1630511474739", id:"phoneAnim062"},
-		{src:"images/phoneAnim063.jpg?1630511474739", id:"phoneAnim063"},
-		{src:"images/phoneAnim064.jpg?1630511474739", id:"phoneAnim064"},
-		{src:"images/phoneAnim065.jpg?1630511474739", id:"phoneAnim065"},
-		{src:"images/phoneAnim066.jpg?1630511474739", id:"phoneAnim066"},
-		{src:"images/phoneAnim067.jpg?1630511474739", id:"phoneAnim067"},
-		{src:"images/phoneAnim068.jpg?1630511474739", id:"phoneAnim068"},
-		{src:"images/phoneAnim069.jpg?1630511474739", id:"phoneAnim069"},
-		{src:"images/phoneAnim070.jpg?1630511474739", id:"phoneAnim070"},
-		{src:"images/phoneAnim071.jpg?1630511474739", id:"phoneAnim071"},
-		{src:"images/phoneAnim072.jpg?1630511474739", id:"phoneAnim072"},
-		{src:"images/phoneAnim073.jpg?1630511474739", id:"phoneAnim073"},
-		{src:"images/phoneAnim074.jpg?1630511474739", id:"phoneAnim074"},
-		{src:"images/phoneAnim075.jpg?1630511474739", id:"phoneAnim075"},
-		{src:"images/phoneAnim076.jpg?1630511474739", id:"phoneAnim076"},
-		{src:"images/phoneAnim077.jpg?1630511474739", id:"phoneAnim077"},
-		{src:"images/phoneAnim078.jpg?1630511474739", id:"phoneAnim078"},
-		{src:"images/phoneAnim079.jpg?1630511474739", id:"phoneAnim079"},
-		{src:"images/phoneAnim080.jpg?1630511474739", id:"phoneAnim080"},
-		{src:"images/phoneAnim081.jpg?1630511474739", id:"phoneAnim081"},
-		{src:"images/phoneAnim082.jpg?1630511474739", id:"phoneAnim082"},
-		{src:"images/phoneAnim083.jpg?1630511474739", id:"phoneAnim083"},
-		{src:"images/phoneAnim084.jpg?1630511474739", id:"phoneAnim084"},
-		{src:"images/phoneAnim085.jpg?1630511474739", id:"phoneAnim085"},
-		{src:"images/phoneAnim086.jpg?1630511474739", id:"phoneAnim086"},
-		{src:"images/phoneAnim087.jpg?1630511474739", id:"phoneAnim087"},
-		{src:"images/phoneAnim088.jpg?1630511474739", id:"phoneAnim088"},
-		{src:"images/phoneAnim089.jpg?1630511474739", id:"phoneAnim089"},
-		{src:"images/phoneAnim090.jpg?1630511474739", id:"phoneAnim090"},
-		{src:"images/phoneAnim091.jpg?1630511474739", id:"phoneAnim091"},
-		{src:"images/phoneAnim092.jpg?1630511474740", id:"phoneAnim092"},
-		{src:"images/phoneAnim093.jpg?1630511474740", id:"phoneAnim093"},
-		{src:"images/phoneAnim094.jpg?1630511474740", id:"phoneAnim094"},
-		{src:"images/phoneAnim095.jpg?1630511474740", id:"phoneAnim095"},
-		{src:"images/phoneAnim096.jpg?1630511474740", id:"phoneAnim096"},
-		{src:"images/phoneAnim097.jpg?1630511474740", id:"phoneAnim097"},
-		{src:"images/phoneAnim098.jpg?1630511474740", id:"phoneAnim098"},
-		{src:"images/phoneAnim099.jpg?1630511474740", id:"phoneAnim099"},
-		{src:"images/phoneAnim100.jpg?1630511474740", id:"phoneAnim100"},
-		{src:"images/phoneAnim101.jpg?1630511474740", id:"phoneAnim101"},
-		{src:"images/phoneAnim102.jpg?1630511474740", id:"phoneAnim102"},
-		{src:"images/phoneAnim103.jpg?1630511474740", id:"phoneAnim103"},
-		{src:"images/phoneAnim104.jpg?1630511474740", id:"phoneAnim104"},
-		{src:"images/phoneAnim105.jpg?1630511474740", id:"phoneAnim105"},
-		{src:"images/phoneAnim106.jpg?1630511474740", id:"phoneAnim106"},
-		{src:"images/phoneAnim107.jpg?1630511474740", id:"phoneAnim107"},
-		{src:"images/phoneAnim108.jpg?1630511474740", id:"phoneAnim108"},
-		{src:"images/phoneAnim109.jpg?1630511474740", id:"phoneAnim109"},
-		{src:"images/phoneAnim110.jpg?1630511474740", id:"phoneAnim110"},
-		{src:"images/phoneAnim111.jpg?1630511474740", id:"phoneAnim111"},
-		{src:"images/phoneAnim112.jpg?1630511474740", id:"phoneAnim112"},
-		{src:"images/phoneAnim113.jpg?1630511474740", id:"phoneAnim113"},
-		{src:"images/phoneAnim114.jpg?1630511474740", id:"phoneAnim114"},
-		{src:"images/phoneAnim115.jpg?1630511474740", id:"phoneAnim115"},
-		{src:"images/SIPC.png?1630511474740", id:"SIPC"}
+		{src:"images/acornslogojpg.png?1630512396449", id:"acornslogojpg"},
+		{src:"images/cup.png?1630512396449", id:"cup"},
+		{src:"images/Group134.png?1630512396449", id:"Group134"},
+		{src:"images/iPhone11.png?1630512396449", id:"iPhone11"},
+		{src:"images/landscapeLegal.png?1630512396449", id:"landscapeLegal"},
+		{src:"images/phoneAnim000.jpg?1630512396449", id:"phoneAnim000"},
+		{src:"images/phoneAnim001.jpg?1630512396449", id:"phoneAnim001"},
+		{src:"images/phoneAnim002.jpg?1630512396449", id:"phoneAnim002"},
+		{src:"images/phoneAnim003.jpg?1630512396449", id:"phoneAnim003"},
+		{src:"images/phoneAnim004.jpg?1630512396449", id:"phoneAnim004"},
+		{src:"images/phoneAnim005.jpg?1630512396449", id:"phoneAnim005"},
+		{src:"images/phoneAnim006.jpg?1630512396449", id:"phoneAnim006"},
+		{src:"images/phoneAnim007.jpg?1630512396449", id:"phoneAnim007"},
+		{src:"images/phoneAnim008.jpg?1630512396449", id:"phoneAnim008"},
+		{src:"images/phoneAnim009.jpg?1630512396449", id:"phoneAnim009"},
+		{src:"images/phoneAnim010.jpg?1630512396449", id:"phoneAnim010"},
+		{src:"images/phoneAnim011.jpg?1630512396449", id:"phoneAnim011"},
+		{src:"images/phoneAnim012.jpg?1630512396449", id:"phoneAnim012"},
+		{src:"images/phoneAnim013.jpg?1630512396449", id:"phoneAnim013"},
+		{src:"images/phoneAnim014.jpg?1630512396449", id:"phoneAnim014"},
+		{src:"images/phoneAnim015.jpg?1630512396449", id:"phoneAnim015"},
+		{src:"images/phoneAnim016.jpg?1630512396449", id:"phoneAnim016"},
+		{src:"images/phoneAnim017.jpg?1630512396449", id:"phoneAnim017"},
+		{src:"images/phoneAnim018.jpg?1630512396449", id:"phoneAnim018"},
+		{src:"images/phoneAnim019.jpg?1630512396449", id:"phoneAnim019"},
+		{src:"images/phoneAnim020.jpg?1630512396449", id:"phoneAnim020"},
+		{src:"images/phoneAnim021.jpg?1630512396449", id:"phoneAnim021"},
+		{src:"images/phoneAnim022.jpg?1630512396449", id:"phoneAnim022"},
+		{src:"images/phoneAnim023.jpg?1630512396449", id:"phoneAnim023"},
+		{src:"images/phoneAnim024.jpg?1630512396449", id:"phoneAnim024"},
+		{src:"images/phoneAnim025.jpg?1630512396449", id:"phoneAnim025"},
+		{src:"images/phoneAnim026.jpg?1630512396449", id:"phoneAnim026"},
+		{src:"images/phoneAnim027.jpg?1630512396449", id:"phoneAnim027"},
+		{src:"images/phoneAnim028.jpg?1630512396449", id:"phoneAnim028"},
+		{src:"images/phoneAnim029.jpg?1630512396449", id:"phoneAnim029"},
+		{src:"images/phoneAnim030.jpg?1630512396449", id:"phoneAnim030"},
+		{src:"images/phoneAnim031.jpg?1630512396449", id:"phoneAnim031"},
+		{src:"images/phoneAnim032.jpg?1630512396449", id:"phoneAnim032"},
+		{src:"images/phoneAnim033.jpg?1630512396449", id:"phoneAnim033"},
+		{src:"images/phoneAnim034.jpg?1630512396449", id:"phoneAnim034"},
+		{src:"images/phoneAnim035.jpg?1630512396449", id:"phoneAnim035"},
+		{src:"images/phoneAnim036.jpg?1630512396449", id:"phoneAnim036"},
+		{src:"images/phoneAnim037.jpg?1630512396449", id:"phoneAnim037"},
+		{src:"images/phoneAnim038.jpg?1630512396449", id:"phoneAnim038"},
+		{src:"images/phoneAnim039.jpg?1630512396449", id:"phoneAnim039"},
+		{src:"images/phoneAnim040.jpg?1630512396449", id:"phoneAnim040"},
+		{src:"images/phoneAnim041.jpg?1630512396449", id:"phoneAnim041"},
+		{src:"images/phoneAnim042.jpg?1630512396449", id:"phoneAnim042"},
+		{src:"images/phoneAnim043.jpg?1630512396449", id:"phoneAnim043"},
+		{src:"images/phoneAnim044.jpg?1630512396449", id:"phoneAnim044"},
+		{src:"images/phoneAnim045.jpg?1630512396449", id:"phoneAnim045"},
+		{src:"images/phoneAnim046.jpg?1630512396449", id:"phoneAnim046"},
+		{src:"images/phoneAnim047.jpg?1630512396449", id:"phoneAnim047"},
+		{src:"images/phoneAnim048.jpg?1630512396449", id:"phoneAnim048"},
+		{src:"images/phoneAnim049.jpg?1630512396449", id:"phoneAnim049"},
+		{src:"images/phoneAnim050.jpg?1630512396449", id:"phoneAnim050"},
+		{src:"images/phoneAnim051.jpg?1630512396449", id:"phoneAnim051"},
+		{src:"images/phoneAnim052.jpg?1630512396449", id:"phoneAnim052"},
+		{src:"images/phoneAnim053.jpg?1630512396449", id:"phoneAnim053"},
+		{src:"images/phoneAnim054.jpg?1630512396449", id:"phoneAnim054"},
+		{src:"images/phoneAnim055.jpg?1630512396449", id:"phoneAnim055"},
+		{src:"images/phoneAnim056.jpg?1630512396449", id:"phoneAnim056"},
+		{src:"images/phoneAnim057.jpg?1630512396449", id:"phoneAnim057"},
+		{src:"images/phoneAnim058.jpg?1630512396449", id:"phoneAnim058"},
+		{src:"images/phoneAnim059.jpg?1630512396449", id:"phoneAnim059"},
+		{src:"images/phoneAnim060.jpg?1630512396449", id:"phoneAnim060"},
+		{src:"images/phoneAnim061.jpg?1630512396449", id:"phoneAnim061"},
+		{src:"images/phoneAnim062.jpg?1630512396449", id:"phoneAnim062"},
+		{src:"images/phoneAnim063.jpg?1630512396449", id:"phoneAnim063"},
+		{src:"images/phoneAnim064.jpg?1630512396449", id:"phoneAnim064"},
+		{src:"images/phoneAnim065.jpg?1630512396449", id:"phoneAnim065"},
+		{src:"images/phoneAnim066.jpg?1630512396449", id:"phoneAnim066"},
+		{src:"images/phoneAnim067.jpg?1630512396449", id:"phoneAnim067"},
+		{src:"images/phoneAnim068.jpg?1630512396449", id:"phoneAnim068"},
+		{src:"images/phoneAnim069.jpg?1630512396449", id:"phoneAnim069"},
+		{src:"images/phoneAnim070.jpg?1630512396449", id:"phoneAnim070"},
+		{src:"images/phoneAnim071.jpg?1630512396449", id:"phoneAnim071"},
+		{src:"images/phoneAnim072.jpg?1630512396449", id:"phoneAnim072"},
+		{src:"images/phoneAnim073.jpg?1630512396449", id:"phoneAnim073"},
+		{src:"images/phoneAnim074.jpg?1630512396449", id:"phoneAnim074"},
+		{src:"images/phoneAnim075.jpg?1630512396449", id:"phoneAnim075"},
+		{src:"images/phoneAnim076.jpg?1630512396449", id:"phoneAnim076"},
+		{src:"images/phoneAnim077.jpg?1630512396449", id:"phoneAnim077"},
+		{src:"images/phoneAnim078.jpg?1630512396449", id:"phoneAnim078"},
+		{src:"images/phoneAnim079.jpg?1630512396449", id:"phoneAnim079"},
+		{src:"images/phoneAnim080.jpg?1630512396449", id:"phoneAnim080"},
+		{src:"images/phoneAnim081.jpg?1630512396449", id:"phoneAnim081"},
+		{src:"images/phoneAnim082.jpg?1630512396449", id:"phoneAnim082"},
+		{src:"images/phoneAnim083.jpg?1630512396449", id:"phoneAnim083"},
+		{src:"images/phoneAnim084.jpg?1630512396449", id:"phoneAnim084"},
+		{src:"images/phoneAnim085.jpg?1630512396449", id:"phoneAnim085"},
+		{src:"images/phoneAnim086.jpg?1630512396449", id:"phoneAnim086"},
+		{src:"images/phoneAnim087.jpg?1630512396449", id:"phoneAnim087"},
+		{src:"images/phoneAnim088.jpg?1630512396449", id:"phoneAnim088"},
+		{src:"images/phoneAnim089.jpg?1630512396449", id:"phoneAnim089"},
+		{src:"images/phoneAnim090.jpg?1630512396449", id:"phoneAnim090"},
+		{src:"images/phoneAnim091.jpg?1630512396449", id:"phoneAnim091"},
+		{src:"images/phoneAnim092.jpg?1630512396449", id:"phoneAnim092"},
+		{src:"images/phoneAnim093.jpg?1630512396449", id:"phoneAnim093"},
+		{src:"images/phoneAnim094.jpg?1630512396449", id:"phoneAnim094"},
+		{src:"images/phoneAnim095.jpg?1630512396449", id:"phoneAnim095"},
+		{src:"images/phoneAnim096.jpg?1630512396449", id:"phoneAnim096"},
+		{src:"images/phoneAnim097.jpg?1630512396449", id:"phoneAnim097"},
+		{src:"images/phoneAnim098.jpg?1630512396449", id:"phoneAnim098"},
+		{src:"images/phoneAnim099.jpg?1630512396449", id:"phoneAnim099"},
+		{src:"images/phoneAnim100.jpg?1630512396449", id:"phoneAnim100"},
+		{src:"images/phoneAnim101.jpg?1630512396449", id:"phoneAnim101"},
+		{src:"images/phoneAnim102.jpg?1630512396449", id:"phoneAnim102"},
+		{src:"images/phoneAnim103.jpg?1630512396449", id:"phoneAnim103"},
+		{src:"images/phoneAnim104.jpg?1630512396449", id:"phoneAnim104"},
+		{src:"images/phoneAnim105.jpg?1630512396449", id:"phoneAnim105"},
+		{src:"images/phoneAnim106.jpg?1630512396449", id:"phoneAnim106"},
+		{src:"images/phoneAnim107.jpg?1630512396449", id:"phoneAnim107"},
+		{src:"images/phoneAnim108.jpg?1630512396449", id:"phoneAnim108"},
+		{src:"images/phoneAnim109.jpg?1630512396449", id:"phoneAnim109"},
+		{src:"images/phoneAnim110.jpg?1630512396449", id:"phoneAnim110"},
+		{src:"images/phoneAnim111.jpg?1630512396449", id:"phoneAnim111"},
+		{src:"images/phoneAnim112.jpg?1630512396449", id:"phoneAnim112"},
+		{src:"images/phoneAnim113.jpg?1630512396449", id:"phoneAnim113"},
+		{src:"images/phoneAnim114.jpg?1630512396449", id:"phoneAnim114"},
+		{src:"images/phoneAnim115.jpg?1630512396449", id:"phoneAnim115"}
 	],
 	preloads: []
 };
