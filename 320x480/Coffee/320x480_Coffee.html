@@ -15,8 +15,8 @@
 <!-- write your code here -->
 <meta name="ad.size" content="width=320,height=480">
 <script type="text/javascript"> var clickTag = ""; </script>
-<script src="https://s0.2mdn.net/ads/studio/cached_libs/createjs_2019.11.15_min.js"></script>
-<script src="320x480_Coffee.js"></script>
+<script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+<script src="320x480_Coffee.js?1629512680419"></script>
 <script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
@@ -62,12 +62,10 @@ function handleComplete(evt,comp) {
 <!-- write your code here -->
 </head>
 <body onload="init();" style="margin:0px;">
-<a href="javascript:window.open(window.clickTag)">
 	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:320px; height:480px">
 		<canvas id="canvas" width="320" height="480" style="position: absolute; display: block; background-color:rgba(255, 255, 255, 1.00);"></canvas>
 		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:320px; height:480px; position: absolute; left: 0px; top: 0px; display: block;">
 		</div>
 	</div>
-</a>
 </body>
 </html>
