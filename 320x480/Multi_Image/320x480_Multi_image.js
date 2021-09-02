@@ -2333,8 +2333,8 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f("#FF3399").s().p("AhyNfQhkgBAAhpIAA3qQAAhpBkAAIDlAAQBkAAAABpIAAXqQAABphkABg");
-	this.shape.setTransform(-66.5,61.8);
+	this.shape.graphics.f("#FF3399").s().p("A2aZoMAAAgzPMAs1AAAMAAAAzPg");
+	this.shape.setTransform(-187.45,63);
 	this.shape._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(3).to({_off:false},0).wait(1));
@@ -2342,7 +2342,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-88,-24.4,88,172.5);
+p.nominalBounds = new cjs.Rectangle(-330.9,-101,330.9,328);
 
 
 (lib.Symbol1_1 = function(mode,startPosition,loop,reversed) {
@@ -2473,123 +2473,123 @@ if (reversed == null) { reversed = false; }
 	// Tap_for_Important_Risk_Disclosures
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f("#FFFFFF").s().p("AAIAUIAAgLIAEgBQACgBAAgGIgBgEQAAgBAAAAQgBAAAAgBQAAAAgBAAQAAAAgBgBQAAAAgBAAQAAAAAAAAQgBABAAAAQAAAAgBAAIgDAKQgCAHgCACQgCADgFgBQgGgCgEgFQgFgGAAgHQAAgIAEgEQADgFAIABIAAALIgEABQgCABAAAFQAAACABACIADACQAAABABAAQAAAAAAgBQABAAAAAAQABAAAAgBIADgKQABgGACgDQAEgCAEABQAHABAEAFQAEAGAAAJQAAAKgFAEQgDADgEAAIgDgBg");
-	this.shape.setTransform(-41.075,-62.7886);
+	this.shape.setTransform(-41.075,-64.2886);
 
 	this.shape_1 = new cjs.Shape();
 	this.shape_1.graphics.f("#FFFFFF").s().p("AAAAUQgKgCgGgHQgFgHAAgIQAAgFABgEQACgEAFgCQADgCAGABIAHABIAAAcQAGABADgDQABgCABgDQAAgCgCgDIgEgDIAAgLQAEABAEAFQAGAGABAJQgBAIgFAFQgDAEgHAAIgHgBgAgKgIQgDACABAEQgBADADACQADADAEACIAAgRIgDAAIgEABg");
-	this.shape_1.setTransform(-41.05,-58.3909);
+	this.shape_1.setTransform(-41.05,-59.8909);
 
 	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.f("#FFFFFF").s().p("AgUAIIAAgJIAIABIgGgGQgDgDAAgGIAAAAIAAgBIAMACIgBACIAAACQAAAGAFAEQACAAAEABIAVAFIAAALg");
-	this.shape_2.setTransform(-41.125,-54.85);
+	this.shape_2.graphics.f("#FFFFFF").s().p("AgUAIIAAgKIAIACIgGgGQgDgDAAgFIAAgBIAAgBIAMADIgBABIAAABQAAAIAFACQACABAEACIAVADIAAAMg");
+	this.shape_2.setTransform(-41.125,-56.35);
 
 	this.shape_3 = new cjs.Shape();
 	this.shape_3.graphics.f("#FFFFFF").s().p("AAEAWIgZgGIAAgLIAZAFIAFABQAEgBAAgFQAAgFgFgCQgDgCgEgBIgWgFIAAgLIAqAJIAAALIgGgBIABABIACABIADAFIABAGQAAAJgHACIgEAAIgHAAg");
-	this.shape_3.setTransform(-41.025,-50.755);
+	this.shape_3.setTransform(-41.025,-52.255);
 
 	this.shape_4 = new cjs.Shape();
 	this.shape_4.graphics.f("#FFFFFF").s().p("AAIAUIAAgLIAEgBQACgBAAgGIgBgEQAAgBAAAAQgBAAAAgBQAAAAgBAAQAAAAgBgBQAAAAgBAAQAAAAAAAAQgBABAAAAQAAAAgBAAIgDAKQgCAHgCACQgCADgFgBQgGgCgEgFQgFgGAAgHQAAgIAEgEQADgFAIABIAAALIgEABQgCABAAAFQAAACABACIADACQAAABABAAQAAAAAAgBQABAAAAAAQABAAAAgBIADgKQABgGACgDQAEgCAEABQAHABAEAFQAEAGAAAJQAAAKgFAEQgDADgEAAIgDgBg");
-	this.shape_4.setTransform(-41.075,-45.8886);
+	this.shape_4.setTransform(-41.075,-47.3886);
 
 	this.shape_5 = new cjs.Shape();
 	this.shape_5.graphics.f("#FFFFFF").s().p("AAAAWQgIgCgHgHQgHgHAAgKQAAgLAHgEQAHgEAIACQAJACAHAHQAHAHAAAKQAAALgHAEQgEACgGAAIgGAAgAgJgJQgDACAAAFQAAAEADADQAEAEAFABQAGABAEgBQADgCAAgFQAAgEgDgDQgEgEgGgBIgEgBIgFABg");
-	this.shape_5.setTransform(-41.075,-41.275);
+	this.shape_5.setTransform(-41.075,-42.775);
 
 	this.shape_6 = new cjs.Shape();
 	this.shape_6.graphics.f("#FFFFFF").s().p("AgcAAIAAgLIA5AMIAAALg");
-	this.shape_6.setTransform(-41.825,-37.925);
+	this.shape_6.setTransform(-41.825,-39.425);
 
 	this.shape_7 = new cjs.Shape();
 	this.shape_7.graphics.f("#FFFFFF").s().p("AAAAUQgJgCgGgHQgHgGABgJQAAgIADgEQADgFAKABIAAAMIgFABQgCABAAAEQAAAEAGAEIAGACIAIABQAFgBAAgFQAAgDgCgCIgGgEIAAgLQAFACAFAEQAHAHABAJQAAAKgHAEQgDACgGAAIgHgBg");
-	this.shape_7.setTransform(-41.05,-34.4727);
+	this.shape_7.setTransform(-41.05,-35.9727);
 
 	this.shape_8 = new cjs.Shape();
 	this.shape_8.graphics.f("#FFFFFF").s().p("AAIAUIAAgLIAEgBQACgBAAgGIgBgEQAAgBAAAAQgBAAAAgBQAAAAgBAAQAAAAgBgBQAAAAgBAAQAAAAAAAAQgBABAAAAQAAAAgBAAIgDAKQgCAHgCACQgCADgFgBQgGgCgEgFQgFgGAAgHQAAgIAEgEQADgFAIABIAAALIgEABQgCABAAAFQAAACABACIADACQAAABABAAQAAAAAAgBQABAAAAAAQABAAAAgBIADgKQABgGACgDQAEgCAEABQAHABAEAFQAEAGAAAJQAAAKgFAEQgDADgEAAIgDgBg");
-	this.shape_8.setTransform(-41.075,-29.8886);
+	this.shape_8.setTransform(-41.075,-31.3886);
 
 	this.shape_9 = new cjs.Shape();
 	this.shape_9.graphics.f("#FFFFFF").s().p("AgNADIAAgKIAqAIIAAALgAgcAAIAAgLIAKACIAAALg");
-	this.shape_9.setTransform(-41.85,-26.825);
+	this.shape_9.setTransform(-41.85,-28.325);
 
 	this.shape_10 = new cjs.Shape();
-	this.shape_10.graphics.f("#FFFFFF").s().p("AgcAPIAAgXIABgJQACgGAGgCQAEgCAFAAIAKABQAKADAIAFQALAJAAAMIAAAZgAgNgOQgFACAAAIIAAAKIAlAIIAAgLQAAgIgJgFQgEgDgGgBIgHgBIgGABg");
-	this.shape_10.setTransform(-41.825,-22.7);
+	this.shape_10.graphics.f("#FFFFFF").s().p("AgcAPIAAgXIABgJQACgGAGgCQAEgCAFAAIAKABQAKACAIAHQALAIAAAMIAAAZgAgNgOQgFACAAAIIAAAKIAlAIIAAgLQAAgHgJgGQgEgCgGgCIgHgBIgGABg");
+	this.shape_10.setTransform(-41.825,-24.2);
 
 	this.shape_11 = new cjs.Shape();
 	this.shape_11.graphics.f("#FFFFFF").s().p("AgcALIAAgKIAeAGIgPgQIAAgOIAQASIAagKIAAAOIgSAFIAEAGIAOADIAAALg");
-	this.shape_11.setTransform(-41.825,-15.525);
+	this.shape_11.setTransform(-41.825,-17.025);
 
 	this.shape_12 = new cjs.Shape();
 	this.shape_12.graphics.f("#FFFFFF").s().p("AAIAUIAAgLIAEgBQACgBAAgGIgBgEQAAgBAAAAQgBAAAAgBQAAAAgBAAQAAAAgBgBQAAAAgBAAQAAAAAAAAQgBABAAAAQAAAAgBAAIgDAKQgCAHgCACQgCADgFgBQgGgCgEgFQgFgGAAgHQAAgIAEgEQADgFAIABIAAALIgEABQgCABAAAFQAAACABACIADACQAAABABAAQAAAAAAgBQABAAAAAAQABAAAAgBIADgKQABgGACgDQAEgCAEABQAHABAEAFQAEAGAAAJQAAAKgFAEQgDADgEAAIgDgBg");
-	this.shape_12.setTransform(-41.075,-10.7886);
+	this.shape_12.setTransform(-41.075,-12.2886);
 
 	this.shape_13 = new cjs.Shape();
 	this.shape_13.graphics.f("#FFFFFF").s().p("AgNADIAAgKIAqAIIAAALgAgcAAIAAgLIAKACIAAALg");
-	this.shape_13.setTransform(-41.85,-7.725);
+	this.shape_13.setTransform(-41.85,-9.225);
 
 	this.shape_14 = new cjs.Shape();
-	this.shape_14.graphics.f("#FFFFFF").s().p("AgcAQIAAgbQAAgGACgDQABgDADgCIAFgCIAGAAQAEABAEADQADADABAFQACgDADgBQADgBAGABIAEABIAFABQABAAAAAAQABgBAAAAQAAAAABAAQAAgBAAAAIACAAIAAAOIgDAAIgFgBIgGgBQgFgBgCACQgCABAAAFIAAAMIAXAFIAAALgAgRgMIgBAGIAAANIAQADIAAgNIgBgGQgCgEgFgBIgCgBQgEAAgBADg");
-	this.shape_14.setTransform(-41.825,-3.6625);
+	this.shape_14.graphics.f("#FFFFFF").s().p("AgcAQIAAgbQAAgGACgDQABgDADgCIAFgCIAGAAQAEABAEADQADADABAFQACgDADgBQADgBAGABIAEABIAFABQABAAAAAAQABgBAAAAQAAAAABAAQAAAAAAgBIACAAIAAAOIgDAAIgFgBIgGgBQgFgBgCACQgCABAAAFIAAAMIAXAFIAAALgAgRgMIgBAGIAAANIAQADIAAgNIgBgGQgCgEgFgBIgCgBQgEAAgBADg");
+	this.shape_14.setTransform(-41.825,-5.1625);
 
 	this.shape_15 = new cjs.Shape();
 	this.shape_15.graphics.f("#FFFFFF").s().p("AgOALIAAgGIgMgCIAAgLIAMADIAAgHIAHACIAAAHIAWAEIADAAIABgDIAAgBIAAgCIAIACIAAAEQABAIgDADQgCABgEgBIgagFIAAAGg");
-	this.shape_15.setTransform(-41.6214,2.575);
+	this.shape_15.setTransform(-41.6214,1.075);
 
 	this.shape_16 = new cjs.Shape();
 	this.shape_16.graphics.f("#FFFFFF").s().p("AgUANIAAgKIAGABIgEgEQgDgEAAgFQAAgHAEgDQADgEAIACIAcAGIAAALIgZgFIgFAAQgEABAAAEQAAAFAFADIAHADIAWAEIAAALg");
-	this.shape_16.setTransform(-41.125,6.7525);
+	this.shape_16.setTransform(-41.125,5.2525);
 
 	this.shape_17 = new cjs.Shape();
 	this.shape_17.graphics.f("#FFFFFF").s().p("AAJAVQgHgCgDgHQgCgEAAgGIgBgDIgBgFQAAAAgBgBQAAAAAAgBQgBAAAAAAQAAAAgBgBQgBAAAAAAQgBAAAAAAQgBABAAAAQAAAAgBAAIAAAFQAAADABACIAEADIAAAKQgFgBgEgEQgFgFAAgKQgBgHADgFQADgFAHACIATAEIAFABIADAAIACgBIABAAIAAAMIgDAAIgCAAIAFAFQACAEAAAFQgBAGgDADQgDACgEAAIgDAAgAACgEIAAADIABABIABAGQABADAEAAQABABAAAAQABAAAAgBQABAAAAAAQABAAAAgBIABgDQAAgEgCgCQgCgEgFgBIgFgBIACADg");
-	this.shape_17.setTransform(-41.05,11.4589);
+	this.shape_17.setTransform(-41.05,9.9589);
 
 	this.shape_18 = new cjs.Shape();
 	this.shape_18.graphics.f("#FFFFFF").s().p("AgOALIAAgGIgMgCIAAgLIAMADIAAgHIAHACIAAAHIAWAEIADAAIABgDIAAgBIAAgCIAIACIAAAEQABAIgDADQgCABgEgBIgagFIAAAGg");
-	this.shape_18.setTransform(-41.6214,14.575);
+	this.shape_18.setTransform(-41.6214,13.075);
 
 	this.shape_19 = new cjs.Shape();
-	this.shape_19.graphics.f("#FFFFFF").s().p("AgUAIIAAgKIAIACIgGgGQgDgEAAgEIAAgBIAAgBIAMADIgBABIAAABQAAAIAFACQACABAEACIAVADIAAAMg");
-	this.shape_19.setTransform(-41.125,17.55);
+	this.shape_19.graphics.f("#FFFFFF").s().p("AgUAIIAAgJIAIABIgGgGQgDgEAAgFIAAAAIAAgBIAMACIgBACIAAACQAAAGAFAEQACABAEAAIAVAEIAAAMg");
+	this.shape_19.setTransform(-41.125,16.05);
 
 	this.shape_20 = new cjs.Shape();
 	this.shape_20.graphics.f("#FFFFFF").s().p("AAAAWQgIgCgHgHQgHgHAAgKQAAgLAHgEQAHgEAIACQAJACAHAHQAHAHAAAKQAAALgHAEQgEACgGAAIgGAAgAgJgJQgDACAAAFQAAAEADADQAEAEAFABQAGABAEgBQADgCAAgFQAAgEgDgDQgEgEgGgBIgEgBIgFABg");
-	this.shape_20.setTransform(-41.075,21.775);
+	this.shape_20.setTransform(-41.075,20.275);
 
 	this.shape_21 = new cjs.Shape();
 	this.shape_21.graphics.f("#FFFFFF").s().p("AgcAMIAAgKIAGABIgEgEQgDgEAAgFQAAgIAFgEQAGgEAKADQALACAGAGQAFAHAAAIQAAAEgCACQgBACgDABIAWAFIAAALgAgQgLQgEABAAAFQAAAFAGAEIAIACQAGACADgDQACgCAAgDQAAgEgDgDQgDgEgGgBIgEAAIgFABg");
-	this.shape_21.setTransform(-40.275,26.9019);
+	this.shape_21.setTransform(-40.275,25.4019);
 
 	this.shape_22 = new cjs.Shape();
 	this.shape_22.graphics.f("#FFFFFF").s().p("AgUAZIAAgLIAGABIgEgFQgDgDAAgGQAAgDACgDQACgCAEgBQgEgDgCgDIgCgIIABgGQABgCADgCQACgBAEAAIAGABIAaAGIAAALIgagGIgEAAQgDABAAAEQAAAFAEACIAEACIAZAGIAAAKIgZgFIgFgBQgDABAAAEQAAAFADACIAFACIAZAFIAAAMg");
-	this.shape_22.setTransform(-41.125,32.7688);
+	this.shape_22.setTransform(-41.125,31.2688);
 
 	this.shape_23 = new cjs.Shape();
 	this.shape_23.graphics.f("#FFFFFF").s().p("AgcAAIAAgLIA5ALIAAAMg");
-	this.shape_23.setTransform(-41.825,37.125);
+	this.shape_23.setTransform(-41.825,35.625);
 
 	this.shape_24 = new cjs.Shape();
-	this.shape_24.graphics.f("#FFFFFF").s().p("AgUAIIAAgKIAIACIgGgGQgDgEAAgEIAAgBIAAgBIAMACIgBACIAAABQAAAIAFACQACACAEABIAVADIAAAMg");
-	this.shape_24.setTransform(-41.125,41.95);
+	this.shape_24.graphics.f("#FFFFFF").s().p("AgUAIIAAgJIAIABIgGgGQgDgEAAgFIAAAAIAAgBIAMACIgBACIAAACQAAAHAFADQACAAAEABIAVAFIAAALg");
+	this.shape_24.setTransform(-41.125,40.45);
 
 	this.shape_25 = new cjs.Shape();
 	this.shape_25.graphics.f("#FFFFFF").s().p("AAAAWQgIgCgHgHQgHgHAAgKQAAgLAHgEQAHgEAIACQAJACAHAHQAHAHAAAKQAAALgHAEQgEACgGAAIgGAAgAgJgJQgDACAAAFQAAAEADADQAEAEAFABQAGABAEgBQADgCAAgFQAAgEgDgDQgEgEgGgBIgEgBIgFABg");
-	this.shape_25.setTransform(-41.075,46.175);
+	this.shape_25.setTransform(-41.075,44.675);
 
 	this.shape_26 = new cjs.Shape();
 	this.shape_26.graphics.f("#FFFFFF").s().p("AgEAIIAAAGIgIgCIAAgGIgDAAQgHgCgCgCQgEgDAAgJIAAgCIAAgCIAJACIAAADIABADIACABIAEABIAAgHIAIACIAAAHIAhAGIAAALg");
-	this.shape_26.setTransform(-41.85,49.475);
+	this.shape_26.setTransform(-41.85,47.975);
 
 	this.shape_27 = new cjs.Shape();
 	this.shape_27.graphics.f("#FFFFFF").s().p("AgcAMIAAgKIAGABIgEgEQgDgEAAgFQAAgIAFgEQAGgEAKADQALACAGAGQAFAHAAAIQAAAEgCACQgBACgDABIAWAFIAAALgAgQgLQgEABAAAFQAAAFAGAEIAIACQAGACADgDQACgCAAgDQAAgEgDgDQgDgEgGgBIgEAAIgFABg");
-	this.shape_27.setTransform(-40.275,56.1519);
+	this.shape_27.setTransform(-40.275,54.6519);
 
 	this.shape_28 = new cjs.Shape();
 	this.shape_28.graphics.f("#FFFFFF").s().p("AAJAVQgHgCgDgHQgCgEAAgGIgBgDIgBgFQAAAAgBgBQAAAAAAgBQgBAAAAAAQAAAAgBgBQgBAAAAAAQgBAAAAAAQgBABAAAAQAAAAgBAAIAAAFQAAADABACIAEADIAAAKQgFgBgEgEQgFgFAAgKQgBgHADgFQADgFAHACIATAEIAFABIADAAIACgBIABAAIAAAMIgDAAIgCAAIAFAFQACAEAAAFQgBAGgDADQgDACgEAAIgDAAgAACgEIAAADIABABIABAGQABADAEAAQABABAAAAQABAAAAgBQABAAAAAAQABAAAAgBIABgDQAAgEgCgCQgCgEgFgBIgFgBIACADg");
-	this.shape_28.setTransform(-41.05,60.7089);
+	this.shape_28.setTransform(-41.05,59.2089);
 
 	this.shape_29 = new cjs.Shape();
 	this.shape_29.graphics.f("#FFFFFF").s().p("AgcAWIAAgtIAKACIAAARIAvAJIAAAMIgvgKIAAARg");
-	this.shape_29.setTransform(-41.825,64.575);
+	this.shape_29.setTransform(-41.825,63.075);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_29},{t:this.shape_28},{t:this.shape_27},{t:this.shape_26},{t:this.shape_25},{t:this.shape_24},{t:this.shape_23},{t:this.shape_22},{t:this.shape_21},{t:this.shape_20},{t:this.shape_19},{t:this.shape_18},{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(240));
 
@@ -5199,7 +5199,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-301.9,-24.4,256.9,172.5);
+p.nominalBounds = new cjs.Rectangle(-544.9,-101,499.9,328);
 
 
 (lib.cta = function(mode,startPosition,loop,reversed) {
@@ -5898,133 +5898,133 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/acornslogo3pngcopy.png?1630522004370", id:"acornslogo3pngcopy"},
-		{src:"images/acornslogojpg.png?1630522004370", id:"acornslogojpg"},
-		{src:"images/allItems.jpg?1630522004370", id:"allItems"},
-		{src:"images/Group1310.png?1630522004370", id:"Group1310"},
-		{src:"images/Group1311.png?1630522004370", id:"Group1311"},
-		{src:"images/Group1312.png?1630522004370", id:"Group1312"},
-		{src:"images/Group138.png?1630522004370", id:"Group138"},
-		{src:"images/Group139.png?1630522004370", id:"Group139"},
-		{src:"images/Group13.png?1630522004370", id:"Group13"},
-		{src:"images/iPhone11.png?1630522004370", id:"iPhone11"},
-		{src:"images/landscapeLegal.png?1630522004370", id:"landscapeLegal"},
-		{src:"images/phoneAnim000.jpg?1630522004370", id:"phoneAnim000"},
-		{src:"images/phoneAnim001.jpg?1630522004370", id:"phoneAnim001"},
-		{src:"images/phoneAnim002.jpg?1630522004370", id:"phoneAnim002"},
-		{src:"images/phoneAnim003.jpg?1630522004370", id:"phoneAnim003"},
-		{src:"images/phoneAnim004.jpg?1630522004370", id:"phoneAnim004"},
-		{src:"images/phoneAnim005.jpg?1630522004370", id:"phoneAnim005"},
-		{src:"images/phoneAnim006.jpg?1630522004370", id:"phoneAnim006"},
-		{src:"images/phoneAnim007.jpg?1630522004370", id:"phoneAnim007"},
-		{src:"images/phoneAnim008.jpg?1630522004370", id:"phoneAnim008"},
-		{src:"images/phoneAnim009.jpg?1630522004370", id:"phoneAnim009"},
-		{src:"images/phoneAnim010.jpg?1630522004370", id:"phoneAnim010"},
-		{src:"images/phoneAnim011.jpg?1630522004370", id:"phoneAnim011"},
-		{src:"images/phoneAnim012.jpg?1630522004370", id:"phoneAnim012"},
-		{src:"images/phoneAnim013.jpg?1630522004370", id:"phoneAnim013"},
-		{src:"images/phoneAnim014.jpg?1630522004370", id:"phoneAnim014"},
-		{src:"images/phoneAnim015.jpg?1630522004370", id:"phoneAnim015"},
-		{src:"images/phoneAnim016.jpg?1630522004370", id:"phoneAnim016"},
-		{src:"images/phoneAnim017.jpg?1630522004370", id:"phoneAnim017"},
-		{src:"images/phoneAnim018.jpg?1630522004370", id:"phoneAnim018"},
-		{src:"images/phoneAnim019.jpg?1630522004370", id:"phoneAnim019"},
-		{src:"images/phoneAnim020.jpg?1630522004370", id:"phoneAnim020"},
-		{src:"images/phoneAnim021.jpg?1630522004370", id:"phoneAnim021"},
-		{src:"images/phoneAnim022.jpg?1630522004370", id:"phoneAnim022"},
-		{src:"images/phoneAnim023.jpg?1630522004370", id:"phoneAnim023"},
-		{src:"images/phoneAnim024.jpg?1630522004371", id:"phoneAnim024"},
-		{src:"images/phoneAnim025.jpg?1630522004371", id:"phoneAnim025"},
-		{src:"images/phoneAnim026.jpg?1630522004371", id:"phoneAnim026"},
-		{src:"images/phoneAnim027.jpg?1630522004371", id:"phoneAnim027"},
-		{src:"images/phoneAnim028.jpg?1630522004371", id:"phoneAnim028"},
-		{src:"images/phoneAnim029.jpg?1630522004371", id:"phoneAnim029"},
-		{src:"images/phoneAnim030.jpg?1630522004371", id:"phoneAnim030"},
-		{src:"images/phoneAnim031.jpg?1630522004371", id:"phoneAnim031"},
-		{src:"images/phoneAnim032.jpg?1630522004371", id:"phoneAnim032"},
-		{src:"images/phoneAnim033.jpg?1630522004371", id:"phoneAnim033"},
-		{src:"images/phoneAnim034.jpg?1630522004371", id:"phoneAnim034"},
-		{src:"images/phoneAnim035.jpg?1630522004371", id:"phoneAnim035"},
-		{src:"images/phoneAnim036.jpg?1630522004371", id:"phoneAnim036"},
-		{src:"images/phoneAnim037.jpg?1630522004371", id:"phoneAnim037"},
-		{src:"images/phoneAnim038.jpg?1630522004371", id:"phoneAnim038"},
-		{src:"images/phoneAnim039.jpg?1630522004371", id:"phoneAnim039"},
-		{src:"images/phoneAnim040.jpg?1630522004371", id:"phoneAnim040"},
-		{src:"images/phoneAnim041.jpg?1630522004371", id:"phoneAnim041"},
-		{src:"images/phoneAnim042.jpg?1630522004371", id:"phoneAnim042"},
-		{src:"images/phoneAnim043.jpg?1630522004371", id:"phoneAnim043"},
-		{src:"images/phoneAnim044.jpg?1630522004371", id:"phoneAnim044"},
-		{src:"images/phoneAnim045.jpg?1630522004371", id:"phoneAnim045"},
-		{src:"images/phoneAnim046.jpg?1630522004371", id:"phoneAnim046"},
-		{src:"images/phoneAnim047.jpg?1630522004371", id:"phoneAnim047"},
-		{src:"images/phoneAnim048.jpg?1630522004371", id:"phoneAnim048"},
-		{src:"images/phoneAnim049.jpg?1630522004371", id:"phoneAnim049"},
-		{src:"images/phoneAnim050.jpg?1630522004371", id:"phoneAnim050"},
-		{src:"images/phoneAnim051.jpg?1630522004371", id:"phoneAnim051"},
-		{src:"images/phoneAnim052.jpg?1630522004371", id:"phoneAnim052"},
-		{src:"images/phoneAnim053.jpg?1630522004371", id:"phoneAnim053"},
-		{src:"images/phoneAnim054.jpg?1630522004371", id:"phoneAnim054"},
-		{src:"images/phoneAnim055.jpg?1630522004371", id:"phoneAnim055"},
-		{src:"images/phoneAnim056.jpg?1630522004371", id:"phoneAnim056"},
-		{src:"images/phoneAnim057.jpg?1630522004371", id:"phoneAnim057"},
-		{src:"images/phoneAnim058.jpg?1630522004371", id:"phoneAnim058"},
-		{src:"images/phoneAnim059.jpg?1630522004371", id:"phoneAnim059"},
-		{src:"images/phoneAnim060.jpg?1630522004371", id:"phoneAnim060"},
-		{src:"images/phoneAnim061.jpg?1630522004371", id:"phoneAnim061"},
-		{src:"images/phoneAnim062.jpg?1630522004371", id:"phoneAnim062"},
-		{src:"images/phoneAnim063.jpg?1630522004371", id:"phoneAnim063"},
-		{src:"images/phoneAnim064.jpg?1630522004371", id:"phoneAnim064"},
-		{src:"images/phoneAnim065.jpg?1630522004371", id:"phoneAnim065"},
-		{src:"images/phoneAnim066.jpg?1630522004371", id:"phoneAnim066"},
-		{src:"images/phoneAnim067.jpg?1630522004371", id:"phoneAnim067"},
-		{src:"images/phoneAnim068.jpg?1630522004371", id:"phoneAnim068"},
-		{src:"images/phoneAnim069.jpg?1630522004371", id:"phoneAnim069"},
-		{src:"images/phoneAnim070.jpg?1630522004371", id:"phoneAnim070"},
-		{src:"images/phoneAnim071.jpg?1630522004371", id:"phoneAnim071"},
-		{src:"images/phoneAnim072.jpg?1630522004371", id:"phoneAnim072"},
-		{src:"images/phoneAnim073.jpg?1630522004371", id:"phoneAnim073"},
-		{src:"images/phoneAnim074.jpg?1630522004371", id:"phoneAnim074"},
-		{src:"images/phoneAnim075.jpg?1630522004371", id:"phoneAnim075"},
-		{src:"images/phoneAnim076.jpg?1630522004371", id:"phoneAnim076"},
-		{src:"images/phoneAnim077.jpg?1630522004371", id:"phoneAnim077"},
-		{src:"images/phoneAnim078.jpg?1630522004371", id:"phoneAnim078"},
-		{src:"images/phoneAnim079.jpg?1630522004371", id:"phoneAnim079"},
-		{src:"images/phoneAnim080.jpg?1630522004371", id:"phoneAnim080"},
-		{src:"images/phoneAnim081.jpg?1630522004371", id:"phoneAnim081"},
-		{src:"images/phoneAnim082.jpg?1630522004371", id:"phoneAnim082"},
-		{src:"images/phoneAnim083.jpg?1630522004371", id:"phoneAnim083"},
-		{src:"images/phoneAnim084.jpg?1630522004371", id:"phoneAnim084"},
-		{src:"images/phoneAnim085.jpg?1630522004371", id:"phoneAnim085"},
-		{src:"images/phoneAnim086.jpg?1630522004371", id:"phoneAnim086"},
-		{src:"images/phoneAnim087.jpg?1630522004371", id:"phoneAnim087"},
-		{src:"images/phoneAnim088.jpg?1630522004371", id:"phoneAnim088"},
-		{src:"images/phoneAnim089.jpg?1630522004371", id:"phoneAnim089"},
-		{src:"images/phoneAnim090.jpg?1630522004371", id:"phoneAnim090"},
-		{src:"images/phoneAnim091.jpg?1630522004371", id:"phoneAnim091"},
-		{src:"images/phoneAnim092.jpg?1630522004371", id:"phoneAnim092"},
-		{src:"images/phoneAnim093.jpg?1630522004371", id:"phoneAnim093"},
-		{src:"images/phoneAnim094.jpg?1630522004371", id:"phoneAnim094"},
-		{src:"images/phoneAnim095.jpg?1630522004371", id:"phoneAnim095"},
-		{src:"images/phoneAnim096.jpg?1630522004371", id:"phoneAnim096"},
-		{src:"images/phoneAnim097.jpg?1630522004371", id:"phoneAnim097"},
-		{src:"images/phoneAnim098.jpg?1630522004371", id:"phoneAnim098"},
-		{src:"images/phoneAnim099.jpg?1630522004371", id:"phoneAnim099"},
-		{src:"images/phoneAnim100.jpg?1630522004371", id:"phoneAnim100"},
-		{src:"images/phoneAnim101.jpg?1630522004371", id:"phoneAnim101"},
-		{src:"images/phoneAnim102.jpg?1630522004371", id:"phoneAnim102"},
-		{src:"images/phoneAnim103.jpg?1630522004371", id:"phoneAnim103"},
-		{src:"images/phoneAnim104.jpg?1630522004371", id:"phoneAnim104"},
-		{src:"images/phoneAnim105.jpg?1630522004371", id:"phoneAnim105"},
-		{src:"images/phoneAnim106.jpg?1630522004371", id:"phoneAnim106"},
-		{src:"images/phoneAnim107.jpg?1630522004371", id:"phoneAnim107"},
-		{src:"images/phoneAnim108.jpg?1630522004371", id:"phoneAnim108"},
-		{src:"images/phoneAnim109.jpg?1630522004371", id:"phoneAnim109"},
-		{src:"images/phoneAnim110.jpg?1630522004371", id:"phoneAnim110"},
-		{src:"images/phoneAnim111.jpg?1630522004371", id:"phoneAnim111"},
-		{src:"images/phoneAnim112.jpg?1630522004371", id:"phoneAnim112"},
-		{src:"images/phoneAnim113.jpg?1630522004371", id:"phoneAnim113"},
-		{src:"images/phoneAnim114.jpg?1630522004371", id:"phoneAnim114"},
-		{src:"images/phoneAnim115.jpg?1630522004371", id:"phoneAnim115"}
+		{src:"images/acornslogo3pngcopy.png?1630593094047", id:"acornslogo3pngcopy"},
+		{src:"images/acornslogojpg.png?1630593094047", id:"acornslogojpg"},
+		{src:"images/allItems.jpg?1630593094047", id:"allItems"},
+		{src:"images/Group1310.png?1630593094047", id:"Group1310"},
+		{src:"images/Group1311.png?1630593094047", id:"Group1311"},
+		{src:"images/Group1312.png?1630593094047", id:"Group1312"},
+		{src:"images/Group138.png?1630593094047", id:"Group138"},
+		{src:"images/Group139.png?1630593094047", id:"Group139"},
+		{src:"images/Group13.png?1630593094047", id:"Group13"},
+		{src:"images/iPhone11.png?1630593094047", id:"iPhone11"},
+		{src:"images/landscapeLegal.png?1630593094047", id:"landscapeLegal"},
+		{src:"images/phoneAnim000.jpg?1630593094047", id:"phoneAnim000"},
+		{src:"images/phoneAnim001.jpg?1630593094047", id:"phoneAnim001"},
+		{src:"images/phoneAnim002.jpg?1630593094047", id:"phoneAnim002"},
+		{src:"images/phoneAnim003.jpg?1630593094047", id:"phoneAnim003"},
+		{src:"images/phoneAnim004.jpg?1630593094047", id:"phoneAnim004"},
+		{src:"images/phoneAnim005.jpg?1630593094047", id:"phoneAnim005"},
+		{src:"images/phoneAnim006.jpg?1630593094047", id:"phoneAnim006"},
+		{src:"images/phoneAnim007.jpg?1630593094047", id:"phoneAnim007"},
+		{src:"images/phoneAnim008.jpg?1630593094047", id:"phoneAnim008"},
+		{src:"images/phoneAnim009.jpg?1630593094047", id:"phoneAnim009"},
+		{src:"images/phoneAnim010.jpg?1630593094047", id:"phoneAnim010"},
+		{src:"images/phoneAnim011.jpg?1630593094047", id:"phoneAnim011"},
+		{src:"images/phoneAnim012.jpg?1630593094047", id:"phoneAnim012"},
+		{src:"images/phoneAnim013.jpg?1630593094047", id:"phoneAnim013"},
+		{src:"images/phoneAnim014.jpg?1630593094047", id:"phoneAnim014"},
+		{src:"images/phoneAnim015.jpg?1630593094047", id:"phoneAnim015"},
+		{src:"images/phoneAnim016.jpg?1630593094047", id:"phoneAnim016"},
+		{src:"images/phoneAnim017.jpg?1630593094047", id:"phoneAnim017"},
+		{src:"images/phoneAnim018.jpg?1630593094047", id:"phoneAnim018"},
+		{src:"images/phoneAnim019.jpg?1630593094047", id:"phoneAnim019"},
+		{src:"images/phoneAnim020.jpg?1630593094047", id:"phoneAnim020"},
+		{src:"images/phoneAnim021.jpg?1630593094047", id:"phoneAnim021"},
+		{src:"images/phoneAnim022.jpg?1630593094047", id:"phoneAnim022"},
+		{src:"images/phoneAnim023.jpg?1630593094047", id:"phoneAnim023"},
+		{src:"images/phoneAnim024.jpg?1630593094047", id:"phoneAnim024"},
+		{src:"images/phoneAnim025.jpg?1630593094047", id:"phoneAnim025"},
+		{src:"images/phoneAnim026.jpg?1630593094047", id:"phoneAnim026"},
+		{src:"images/phoneAnim027.jpg?1630593094047", id:"phoneAnim027"},
+		{src:"images/phoneAnim028.jpg?1630593094047", id:"phoneAnim028"},
+		{src:"images/phoneAnim029.jpg?1630593094047", id:"phoneAnim029"},
+		{src:"images/phoneAnim030.jpg?1630593094047", id:"phoneAnim030"},
+		{src:"images/phoneAnim031.jpg?1630593094047", id:"phoneAnim031"},
+		{src:"images/phoneAnim032.jpg?1630593094047", id:"phoneAnim032"},
+		{src:"images/phoneAnim033.jpg?1630593094047", id:"phoneAnim033"},
+		{src:"images/phoneAnim034.jpg?1630593094047", id:"phoneAnim034"},
+		{src:"images/phoneAnim035.jpg?1630593094047", id:"phoneAnim035"},
+		{src:"images/phoneAnim036.jpg?1630593094047", id:"phoneAnim036"},
+		{src:"images/phoneAnim037.jpg?1630593094047", id:"phoneAnim037"},
+		{src:"images/phoneAnim038.jpg?1630593094047", id:"phoneAnim038"},
+		{src:"images/phoneAnim039.jpg?1630593094047", id:"phoneAnim039"},
+		{src:"images/phoneAnim040.jpg?1630593094047", id:"phoneAnim040"},
+		{src:"images/phoneAnim041.jpg?1630593094047", id:"phoneAnim041"},
+		{src:"images/phoneAnim042.jpg?1630593094047", id:"phoneAnim042"},
+		{src:"images/phoneAnim043.jpg?1630593094047", id:"phoneAnim043"},
+		{src:"images/phoneAnim044.jpg?1630593094047", id:"phoneAnim044"},
+		{src:"images/phoneAnim045.jpg?1630593094047", id:"phoneAnim045"},
+		{src:"images/phoneAnim046.jpg?1630593094047", id:"phoneAnim046"},
+		{src:"images/phoneAnim047.jpg?1630593094047", id:"phoneAnim047"},
+		{src:"images/phoneAnim048.jpg?1630593094047", id:"phoneAnim048"},
+		{src:"images/phoneAnim049.jpg?1630593094047", id:"phoneAnim049"},
+		{src:"images/phoneAnim050.jpg?1630593094047", id:"phoneAnim050"},
+		{src:"images/phoneAnim051.jpg?1630593094047", id:"phoneAnim051"},
+		{src:"images/phoneAnim052.jpg?1630593094047", id:"phoneAnim052"},
+		{src:"images/phoneAnim053.jpg?1630593094047", id:"phoneAnim053"},
+		{src:"images/phoneAnim054.jpg?1630593094047", id:"phoneAnim054"},
+		{src:"images/phoneAnim055.jpg?1630593094047", id:"phoneAnim055"},
+		{src:"images/phoneAnim056.jpg?1630593094047", id:"phoneAnim056"},
+		{src:"images/phoneAnim057.jpg?1630593094047", id:"phoneAnim057"},
+		{src:"images/phoneAnim058.jpg?1630593094047", id:"phoneAnim058"},
+		{src:"images/phoneAnim059.jpg?1630593094047", id:"phoneAnim059"},
+		{src:"images/phoneAnim060.jpg?1630593094047", id:"phoneAnim060"},
+		{src:"images/phoneAnim061.jpg?1630593094047", id:"phoneAnim061"},
+		{src:"images/phoneAnim062.jpg?1630593094047", id:"phoneAnim062"},
+		{src:"images/phoneAnim063.jpg?1630593094047", id:"phoneAnim063"},
+		{src:"images/phoneAnim064.jpg?1630593094047", id:"phoneAnim064"},
+		{src:"images/phoneAnim065.jpg?1630593094047", id:"phoneAnim065"},
+		{src:"images/phoneAnim066.jpg?1630593094047", id:"phoneAnim066"},
+		{src:"images/phoneAnim067.jpg?1630593094047", id:"phoneAnim067"},
+		{src:"images/phoneAnim068.jpg?1630593094047", id:"phoneAnim068"},
+		{src:"images/phoneAnim069.jpg?1630593094047", id:"phoneAnim069"},
+		{src:"images/phoneAnim070.jpg?1630593094047", id:"phoneAnim070"},
+		{src:"images/phoneAnim071.jpg?1630593094047", id:"phoneAnim071"},
+		{src:"images/phoneAnim072.jpg?1630593094047", id:"phoneAnim072"},
+		{src:"images/phoneAnim073.jpg?1630593094047", id:"phoneAnim073"},
+		{src:"images/phoneAnim074.jpg?1630593094047", id:"phoneAnim074"},
+		{src:"images/phoneAnim075.jpg?1630593094047", id:"phoneAnim075"},
+		{src:"images/phoneAnim076.jpg?1630593094047", id:"phoneAnim076"},
+		{src:"images/phoneAnim077.jpg?1630593094047", id:"phoneAnim077"},
+		{src:"images/phoneAnim078.jpg?1630593094047", id:"phoneAnim078"},
+		{src:"images/phoneAnim079.jpg?1630593094047", id:"phoneAnim079"},
+		{src:"images/phoneAnim080.jpg?1630593094047", id:"phoneAnim080"},
+		{src:"images/phoneAnim081.jpg?1630593094047", id:"phoneAnim081"},
+		{src:"images/phoneAnim082.jpg?1630593094047", id:"phoneAnim082"},
+		{src:"images/phoneAnim083.jpg?1630593094047", id:"phoneAnim083"},
+		{src:"images/phoneAnim084.jpg?1630593094047", id:"phoneAnim084"},
+		{src:"images/phoneAnim085.jpg?1630593094047", id:"phoneAnim085"},
+		{src:"images/phoneAnim086.jpg?1630593094047", id:"phoneAnim086"},
+		{src:"images/phoneAnim087.jpg?1630593094047", id:"phoneAnim087"},
+		{src:"images/phoneAnim088.jpg?1630593094047", id:"phoneAnim088"},
+		{src:"images/phoneAnim089.jpg?1630593094047", id:"phoneAnim089"},
+		{src:"images/phoneAnim090.jpg?1630593094047", id:"phoneAnim090"},
+		{src:"images/phoneAnim091.jpg?1630593094047", id:"phoneAnim091"},
+		{src:"images/phoneAnim092.jpg?1630593094047", id:"phoneAnim092"},
+		{src:"images/phoneAnim093.jpg?1630593094047", id:"phoneAnim093"},
+		{src:"images/phoneAnim094.jpg?1630593094047", id:"phoneAnim094"},
+		{src:"images/phoneAnim095.jpg?1630593094047", id:"phoneAnim095"},
+		{src:"images/phoneAnim096.jpg?1630593094047", id:"phoneAnim096"},
+		{src:"images/phoneAnim097.jpg?1630593094047", id:"phoneAnim097"},
+		{src:"images/phoneAnim098.jpg?1630593094047", id:"phoneAnim098"},
+		{src:"images/phoneAnim099.jpg?1630593094047", id:"phoneAnim099"},
+		{src:"images/phoneAnim100.jpg?1630593094048", id:"phoneAnim100"},
+		{src:"images/phoneAnim101.jpg?1630593094048", id:"phoneAnim101"},
+		{src:"images/phoneAnim102.jpg?1630593094048", id:"phoneAnim102"},
+		{src:"images/phoneAnim103.jpg?1630593094048", id:"phoneAnim103"},
+		{src:"images/phoneAnim104.jpg?1630593094048", id:"phoneAnim104"},
+		{src:"images/phoneAnim105.jpg?1630593094048", id:"phoneAnim105"},
+		{src:"images/phoneAnim106.jpg?1630593094048", id:"phoneAnim106"},
+		{src:"images/phoneAnim107.jpg?1630593094048", id:"phoneAnim107"},
+		{src:"images/phoneAnim108.jpg?1630593094048", id:"phoneAnim108"},
+		{src:"images/phoneAnim109.jpg?1630593094048", id:"phoneAnim109"},
+		{src:"images/phoneAnim110.jpg?1630593094048", id:"phoneAnim110"},
+		{src:"images/phoneAnim111.jpg?1630593094048", id:"phoneAnim111"},
+		{src:"images/phoneAnim112.jpg?1630593094048", id:"phoneAnim112"},
+		{src:"images/phoneAnim113.jpg?1630593094048", id:"phoneAnim113"},
+		{src:"images/phoneAnim114.jpg?1630593094048", id:"phoneAnim114"},
+		{src:"images/phoneAnim115.jpg?1630593094048", id:"phoneAnim115"}
 	],
 	preloads: []
 };

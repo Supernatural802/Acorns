@@ -1581,8 +1581,8 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f("#FF3399").s().p("AhyNfQhkgBAAhpIAA3qQAAhpBkAAIDlAAQBkAAAABpIAAXqQAABphkABg");
-	this.shape.setTransform(-66.5,61.8);
+	this.shape.graphics.f("#FF3399").s().p("AqJLVIAA2pIUTAAIAAWpg");
+	this.shape.setTransform(-160.4592,63.9967,1.7462,2.2479);
 	this.shape._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(3).to({_off:false},0).wait(1));
@@ -1590,7 +1590,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-88,-24.4,88,172.5);
+p.nominalBounds = new cjs.Rectangle(-273.9,-99,273.9,326);
 
 
 (lib.Symbol1_1 = function(mode,startPosition,loop,reversed) {
@@ -1723,123 +1723,123 @@ if (reversed == null) { reversed = false; }
 	// legaltxt
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f("#FFFFFF").s().p("AAIAUIAAgLIAEgBQACgBAAgGIgBgEQAAgBAAAAQgBAAAAgBQAAAAgBAAQAAAAgBgBQAAAAgBAAQAAAAAAAAQgBABAAAAQAAAAgBAAIgDAKQgCAHgCACQgCADgFgBQgGgCgEgFQgFgGAAgHQAAgIAEgEQADgFAIABIAAALIgEABQgCABAAAFQAAACABACIADACQAAABABAAQAAAAAAgBQABAAAAAAQABAAAAgBIADgKQABgGACgDQAEgCAEABQAHABAEAFQAEAGAAAJQAAAKgFAEQgDADgEAAIgDgBg");
-	this.shape.setTransform(-41.075,-69.2886);
+	this.shape.setTransform(-41.075,-65.2886);
 
 	this.shape_1 = new cjs.Shape();
 	this.shape_1.graphics.f("#FFFFFF").s().p("AAAAUQgKgCgGgHQgFgHAAgIQAAgFABgEQACgEAFgCQADgCAGABIAHABIAAAcQAGABADgDQABgCABgDQAAgCgCgDIgEgDIAAgLQAEABAEAFQAGAGABAJQgBAIgFAFQgDAEgHAAIgHgBgAgKgIQgDACABAEQgBADADACQADADAEACIAAgRIgDAAIgEABg");
-	this.shape_1.setTransform(-41.05,-64.8909);
+	this.shape_1.setTransform(-41.05,-60.8909);
 
 	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.f("#FFFFFF").s().p("AgUAIIAAgJIAIABIgGgGQgDgEAAgFIAAAAIAAgBIAMACIgBACIAAACQAAAGAFAEQACABAEAAIAVAEIAAAMg");
-	this.shape_2.setTransform(-41.125,-61.35);
+	this.shape_2.graphics.f("#FFFFFF").s().p("AgUAIIAAgKIAIACIgGgGQgDgDAAgFIAAgBIAAgBIAMADIgBABIAAABQAAAIAFACQACABAEABIAVAFIAAALg");
+	this.shape_2.setTransform(-41.125,-57.35);
 
 	this.shape_3 = new cjs.Shape();
 	this.shape_3.graphics.f("#FFFFFF").s().p("AAEAWIgZgGIAAgLIAZAFIAFABQAEgBAAgFQAAgFgFgCQgDgCgEgBIgWgFIAAgLIAqAJIAAALIgGgBIABABIACABIADAFIABAGQAAAJgHACIgEAAIgHAAg");
-	this.shape_3.setTransform(-41.025,-57.255);
+	this.shape_3.setTransform(-41.025,-53.255);
 
 	this.shape_4 = new cjs.Shape();
 	this.shape_4.graphics.f("#FFFFFF").s().p("AAIAUIAAgLIAEgBQACgBAAgGIgBgEQAAgBAAAAQgBAAAAgBQAAAAgBAAQAAAAgBgBQAAAAgBAAQAAAAAAAAQgBABAAAAQAAAAgBAAIgDAKQgCAHgCACQgCADgFgBQgGgCgEgFQgFgGAAgHQAAgIAEgEQADgFAIABIAAALIgEABQgCABAAAFQAAACABACIADACQAAABABAAQAAAAAAgBQABAAAAAAQABAAAAgBIADgKQABgGACgDQAEgCAEABQAHABAEAFQAEAGAAAJQAAAKgFAEQgDADgEAAIgDgBg");
-	this.shape_4.setTransform(-41.075,-52.3886);
+	this.shape_4.setTransform(-41.075,-48.3886);
 
 	this.shape_5 = new cjs.Shape();
 	this.shape_5.graphics.f("#FFFFFF").s().p("AAAAWQgIgCgHgHQgHgHAAgKQAAgLAHgEQAHgEAIACQAJACAHAHQAHAHAAAKQAAALgHAEQgEACgGAAIgGAAgAgJgJQgDACAAAFQAAAEADADQAEAEAFABQAGABAEgBQADgCAAgFQAAgEgDgDQgEgEgGgBIgEgBIgFABg");
-	this.shape_5.setTransform(-41.075,-47.775);
+	this.shape_5.setTransform(-41.075,-43.775);
 
 	this.shape_6 = new cjs.Shape();
 	this.shape_6.graphics.f("#FFFFFF").s().p("AgcAAIAAgLIA5AMIAAALg");
-	this.shape_6.setTransform(-41.825,-44.425);
+	this.shape_6.setTransform(-41.825,-40.425);
 
 	this.shape_7 = new cjs.Shape();
 	this.shape_7.graphics.f("#FFFFFF").s().p("AAAAUQgJgCgGgHQgHgGABgJQAAgIADgEQADgFAKABIAAAMIgFABQgCABAAAEQAAAEAGAEIAGACIAIABQAFgBAAgFQAAgDgCgCIgGgEIAAgLQAFACAFAEQAHAHABAJQAAAKgHAEQgDACgGAAIgHgBg");
-	this.shape_7.setTransform(-41.05,-40.9727);
+	this.shape_7.setTransform(-41.05,-36.9727);
 
 	this.shape_8 = new cjs.Shape();
 	this.shape_8.graphics.f("#FFFFFF").s().p("AAIAUIAAgLIAEgBQACgBAAgGIgBgEQAAgBAAAAQgBAAAAgBQAAAAgBAAQAAAAgBgBQAAAAgBAAQAAAAAAAAQgBABAAAAQAAAAgBAAIgDAKQgCAHgCACQgCADgFgBQgGgCgEgFQgFgGAAgHQAAgIAEgEQADgFAIABIAAALIgEABQgCABAAAFQAAACABACIADACQAAABABAAQAAAAAAgBQABAAAAAAQABAAAAgBIADgKQABgGACgDQAEgCAEABQAHABAEAFQAEAGAAAJQAAAKgFAEQgDADgEAAIgDgBg");
-	this.shape_8.setTransform(-41.075,-36.3886);
+	this.shape_8.setTransform(-41.075,-32.3886);
 
 	this.shape_9 = new cjs.Shape();
 	this.shape_9.graphics.f("#FFFFFF").s().p("AgNADIAAgKIAqAIIAAALgAgcAAIAAgLIAKACIAAALg");
-	this.shape_9.setTransform(-41.85,-33.325);
+	this.shape_9.setTransform(-41.85,-29.325);
 
 	this.shape_10 = new cjs.Shape();
-	this.shape_10.graphics.f("#FFFFFF").s().p("AgcAQIAAgYIABgJQACgGAGgCQAEgCAFAAIAKABQAKADAIAFQALAJAAAMIAAAZgAgNgOQgFACAAAIIAAAKIAlAIIAAgLQAAgIgJgEQgEgDgGgCIgHgBIgGABg");
-	this.shape_10.setTransform(-41.825,-29.2);
+	this.shape_10.graphics.f("#FFFFFF").s().p("AgcAPIAAgXIABgJQACgFAGgDQAEgCAFAAIAKABQAKACAIAGQALAJAAAMIAAAZgAgNgOQgFACAAAIIAAAKIAlAIIAAgLQAAgHgJgGQgEgDgGgBIgHgBIgGABg");
+	this.shape_10.setTransform(-41.825,-25.2);
 
 	this.shape_11 = new cjs.Shape();
 	this.shape_11.graphics.f("#FFFFFF").s().p("AgcALIAAgKIAeAGIgPgQIAAgOIAQASIAagKIAAAOIgSAFIAEAGIAOADIAAALg");
-	this.shape_11.setTransform(-41.825,-22.025);
+	this.shape_11.setTransform(-41.825,-18.025);
 
 	this.shape_12 = new cjs.Shape();
 	this.shape_12.graphics.f("#FFFFFF").s().p("AAIAUIAAgLIAEgBQACgBAAgGIgBgEQAAgBAAAAQgBAAAAgBQAAAAgBAAQAAAAgBgBQAAAAgBAAQAAAAAAAAQgBABAAAAQAAAAgBAAIgDAKQgCAHgCACQgCADgFgBQgGgCgEgFQgFgGAAgHQAAgIAEgEQADgFAIABIAAALIgEABQgCABAAAFQAAACABACIADACQAAABABAAQAAAAAAgBQABAAAAAAQABAAAAgBIADgKQABgGACgDQAEgCAEABQAHABAEAFQAEAGAAAJQAAAKgFAEQgDADgEAAIgDgBg");
-	this.shape_12.setTransform(-41.075,-17.2886);
+	this.shape_12.setTransform(-41.075,-13.2886);
 
 	this.shape_13 = new cjs.Shape();
 	this.shape_13.graphics.f("#FFFFFF").s().p("AgNADIAAgKIAqAIIAAALgAgcAAIAAgLIAKACIAAALg");
-	this.shape_13.setTransform(-41.85,-14.225);
+	this.shape_13.setTransform(-41.85,-10.225);
 
 	this.shape_14 = new cjs.Shape();
 	this.shape_14.graphics.f("#FFFFFF").s().p("AgcAQIAAgbQAAgGACgDQABgDADgCIAFgCIAGAAQAEABAEADQADADABAFQACgDADgBQADgBAGABIAEABIAFABQABAAAAAAQABgBAAAAQAAAAABAAQAAgBAAAAIACAAIAAAOIgDAAIgFgBIgGgBQgFgBgCACQgCABAAAFIAAAMIAXAFIAAALgAgRgMIgBAGIAAANIAQADIAAgNIgBgGQgCgEgFgBIgCgBQgEAAgBADg");
-	this.shape_14.setTransform(-41.825,-10.1625);
+	this.shape_14.setTransform(-41.825,-6.1625);
 
 	this.shape_15 = new cjs.Shape();
 	this.shape_15.graphics.f("#FFFFFF").s().p("AgOALIAAgGIgMgCIAAgLIAMADIAAgHIAHACIAAAHIAWAEIADAAIABgDIAAgBIAAgCIAIACIAAAEQABAIgDADQgCABgEgBIgagFIAAAGg");
-	this.shape_15.setTransform(-41.6214,-3.925);
+	this.shape_15.setTransform(-41.6214,0.075);
 
 	this.shape_16 = new cjs.Shape();
 	this.shape_16.graphics.f("#FFFFFF").s().p("AgUANIAAgKIAGABIgEgEQgDgEAAgFQAAgHAEgDQADgEAIACIAcAGIAAALIgZgFIgFAAQgEABAAAEQAAAFAFADIAHADIAWAEIAAALg");
-	this.shape_16.setTransform(-41.125,0.2525);
+	this.shape_16.setTransform(-41.125,4.2525);
 
 	this.shape_17 = new cjs.Shape();
 	this.shape_17.graphics.f("#FFFFFF").s().p("AAJAVQgHgCgDgHQgCgEAAgGIgBgDIgBgFQAAAAgBgBQAAAAAAgBQgBAAAAAAQAAAAgBgBQgBAAAAAAQgBAAAAAAQgBABAAAAQAAAAgBAAIAAAFQAAADABACIAEADIAAAKQgFgBgEgEQgFgFAAgKQgBgHADgFQADgFAHACIATAEIAFABIADAAIACgBIABAAIAAAMIgDAAIgCAAIAFAFQACAEAAAFQgBAGgDADQgDACgEAAIgDAAgAACgEIAAADIABABIABAGQABADAEAAQABABAAAAQABAAAAgBQABAAAAAAQABAAAAgBIABgDQAAgEgCgCQgCgEgFgBIgFgBIACADg");
-	this.shape_17.setTransform(-41.05,4.9589);
+	this.shape_17.setTransform(-41.05,8.9589);
 
 	this.shape_18 = new cjs.Shape();
 	this.shape_18.graphics.f("#FFFFFF").s().p("AgOALIAAgGIgMgCIAAgLIAMADIAAgHIAHACIAAAHIAWAEIADAAIABgDIAAgBIAAgCIAIACIAAAEQABAIgDADQgCABgEgBIgagFIAAAGg");
-	this.shape_18.setTransform(-41.6214,8.075);
+	this.shape_18.setTransform(-41.6214,12.075);
 
 	this.shape_19 = new cjs.Shape();
-	this.shape_19.graphics.f("#FFFFFF").s().p("AgUAIIAAgJIAIABIgGgGQgDgDAAgFIAAgBIAAgBIAMADIgBABIAAABQAAAIAFACQACABAEABIAVAFIAAALg");
-	this.shape_19.setTransform(-41.125,11.05);
+	this.shape_19.graphics.f("#FFFFFF").s().p("AgUAIIAAgKIAIACIgGgGQgDgEAAgFIAAAAIAAgBIAMACIgBACIAAABQAAAHAFAEQACABAEABIAVADIAAAMg");
+	this.shape_19.setTransform(-41.125,15.05);
 
 	this.shape_20 = new cjs.Shape();
 	this.shape_20.graphics.f("#FFFFFF").s().p("AAAAWQgIgCgHgHQgHgHAAgKQAAgLAHgEQAHgEAIACQAJACAHAHQAHAHAAAKQAAALgHAEQgEACgGAAIgGAAgAgJgJQgDACAAAFQAAAEADADQAEAEAFABQAGABAEgBQADgCAAgFQAAgEgDgDQgEgEgGgBIgEgBIgFABg");
-	this.shape_20.setTransform(-41.075,15.275);
+	this.shape_20.setTransform(-41.075,19.275);
 
 	this.shape_21 = new cjs.Shape();
 	this.shape_21.graphics.f("#FFFFFF").s().p("AgcAMIAAgKIAGABIgEgEQgDgEAAgFQAAgIAFgEQAGgEAKADQALACAGAGQAFAHAAAIQAAAEgCACQgBACgDABIAWAFIAAALgAgQgLQgEABAAAFQAAAFAGAEIAIACQAGACADgDQACgCAAgDQAAgEgDgDQgDgEgGgBIgEAAIgFABg");
-	this.shape_21.setTransform(-40.275,20.4019);
+	this.shape_21.setTransform(-40.275,24.4019);
 
 	this.shape_22 = new cjs.Shape();
 	this.shape_22.graphics.f("#FFFFFF").s().p("AgUAZIAAgLIAGABIgEgFQgDgDAAgGQAAgDACgDQACgCAEgBQgEgDgCgDIgCgIIABgGQABgCADgCQACgBAEAAIAGABIAaAGIAAALIgagGIgEAAQgDABAAAEQAAAFAEACIAEACIAZAGIAAAKIgZgFIgFgBQgDABAAAEQAAAFADACIAFACIAZAFIAAAMg");
-	this.shape_22.setTransform(-41.125,26.2688);
+	this.shape_22.setTransform(-41.125,30.2688);
 
 	this.shape_23 = new cjs.Shape();
 	this.shape_23.graphics.f("#FFFFFF").s().p("AgcAAIAAgLIA5ALIAAAMg");
-	this.shape_23.setTransform(-41.825,30.625);
+	this.shape_23.setTransform(-41.825,34.625);
 
 	this.shape_24 = new cjs.Shape();
-	this.shape_24.graphics.f("#FFFFFF").s().p("AgUAIIAAgKIAIACIgGgGQgDgDAAgFIAAgBIAAgBIAMADIgBABIAAABQAAAIAFACQACABAEACIAVADIAAAMg");
-	this.shape_24.setTransform(-41.125,35.45);
+	this.shape_24.graphics.f("#FFFFFF").s().p("AgUAIIAAgJIAIABIgGgGQgDgEAAgFIAAAAIAAgBIAMACIgBACIAAACQAAAGAFAEQACABAEAAIAVAEIAAAMg");
+	this.shape_24.setTransform(-41.125,39.45);
 
 	this.shape_25 = new cjs.Shape();
 	this.shape_25.graphics.f("#FFFFFF").s().p("AAAAWQgIgCgHgHQgHgHAAgKQAAgLAHgEQAHgEAIACQAJACAHAHQAHAHAAAKQAAALgHAEQgEACgGAAIgGAAgAgJgJQgDACAAAFQAAAEADADQAEAEAFABQAGABAEgBQADgCAAgFQAAgEgDgDQgEgEgGgBIgEgBIgFABg");
-	this.shape_25.setTransform(-41.075,39.675);
+	this.shape_25.setTransform(-41.075,43.675);
 
 	this.shape_26 = new cjs.Shape();
 	this.shape_26.graphics.f("#FFFFFF").s().p("AgEAIIAAAGIgIgCIAAgGIgDAAQgHgCgCgCQgEgDAAgJIAAgCIAAgCIAJACIAAADIABADIACABIAEABIAAgHIAIACIAAAHIAhAGIAAALg");
-	this.shape_26.setTransform(-41.85,42.975);
+	this.shape_26.setTransform(-41.85,46.975);
 
 	this.shape_27 = new cjs.Shape();
 	this.shape_27.graphics.f("#FFFFFF").s().p("AgcAMIAAgKIAGABIgEgEQgDgEAAgFQAAgIAFgEQAGgEAKADQALACAGAGQAFAHAAAIQAAAEgCACQgBACgDABIAWAFIAAALgAgQgLQgEABAAAFQAAAFAGAEIAIACQAGACADgDQACgCAAgDQAAgEgDgDQgDgEgGgBIgEAAIgFABg");
-	this.shape_27.setTransform(-40.275,49.6519);
+	this.shape_27.setTransform(-40.275,53.6519);
 
 	this.shape_28 = new cjs.Shape();
 	this.shape_28.graphics.f("#FFFFFF").s().p("AAJAVQgHgCgDgHQgCgEAAgGIgBgDIgBgFQAAAAgBgBQAAAAAAgBQgBAAAAAAQAAAAgBgBQgBAAAAAAQgBAAAAAAQgBABAAAAQAAAAgBAAIAAAFQAAADABACIAEADIAAAKQgFgBgEgEQgFgFAAgKQgBgHADgFQADgFAHACIATAEIAFABIADAAIACgBIABAAIAAAMIgDAAIgCAAIAFAFQACAEAAAFQgBAGgDADQgDACgEAAIgDAAgAACgEIAAADIABABIABAGQABADAEAAQABABAAAAQABAAAAgBQABAAAAAAQABAAAAgBIABgDQAAgEgCgCQgCgEgFgBIgFgBIACADg");
-	this.shape_28.setTransform(-41.05,54.2089);
+	this.shape_28.setTransform(-41.05,58.2089);
 
 	this.shape_29 = new cjs.Shape();
 	this.shape_29.graphics.f("#FFFFFF").s().p("AgcAWIAAgtIAKACIAAARIAvAJIAAAMIgvgKIAAARg");
-	this.shape_29.setTransform(-41.825,58.075);
+	this.shape_29.setTransform(-41.825,62.075);
 
 	this.shape_30 = new cjs.Shape();
 	this.shape_30.graphics.f("#FFFFFF").s().p("AgdAcQgGgKADgSQAEgRANgLQAKgJANAAQASAAAGAMQADAHgBAHIgPAAQAAgFgCgDQgDgFgIAAQgIAAgGAHQgGAGgCAMQgDAMAEAGQADAGAIAAQAHAAAFgFQADgDADgGIAPAAQgFAMgJAHQgKAIgLAAQgQAAgHgKg");
@@ -4446,7 +4446,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-354.9,-24.4,309.9,172.5);
+p.nominalBounds = new cjs.Rectangle(-540.9,-99,495.9,326);
 
 
 (lib.cta = function(mode,startPosition,loop,reversed) {
@@ -4720,127 +4720,127 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/acornslogo1.png?1630518785961", id:"acornslogo1"},
-		{src:"images/Group1212.png?1630518785961", id:"Group1212"},
-		{src:"images/Group141.png?1630518785961", id:"Group141"},
-		{src:"images/iPhone11.png?1630518785961", id:"iPhone11"},
-		{src:"images/landscapeLegal.png?1630518785961", id:"landscapeLegal"},
-		{src:"images/phoneAnim000.jpg?1630518785961", id:"phoneAnim000"},
-		{src:"images/phoneAnim001.jpg?1630518785961", id:"phoneAnim001"},
-		{src:"images/phoneAnim002.jpg?1630518785961", id:"phoneAnim002"},
-		{src:"images/phoneAnim003.jpg?1630518785961", id:"phoneAnim003"},
-		{src:"images/phoneAnim004.jpg?1630518785961", id:"phoneAnim004"},
-		{src:"images/phoneAnim005.jpg?1630518785961", id:"phoneAnim005"},
-		{src:"images/phoneAnim006.jpg?1630518785961", id:"phoneAnim006"},
-		{src:"images/phoneAnim007.jpg?1630518785961", id:"phoneAnim007"},
-		{src:"images/phoneAnim008.jpg?1630518785961", id:"phoneAnim008"},
-		{src:"images/phoneAnim009.jpg?1630518785961", id:"phoneAnim009"},
-		{src:"images/phoneAnim010.jpg?1630518785961", id:"phoneAnim010"},
-		{src:"images/phoneAnim011.jpg?1630518785961", id:"phoneAnim011"},
-		{src:"images/phoneAnim012.jpg?1630518785961", id:"phoneAnim012"},
-		{src:"images/phoneAnim013.jpg?1630518785961", id:"phoneAnim013"},
-		{src:"images/phoneAnim014.jpg?1630518785961", id:"phoneAnim014"},
-		{src:"images/phoneAnim015.jpg?1630518785961", id:"phoneAnim015"},
-		{src:"images/phoneAnim016.jpg?1630518785961", id:"phoneAnim016"},
-		{src:"images/phoneAnim017.jpg?1630518785961", id:"phoneAnim017"},
-		{src:"images/phoneAnim018.jpg?1630518785961", id:"phoneAnim018"},
-		{src:"images/phoneAnim019.jpg?1630518785961", id:"phoneAnim019"},
-		{src:"images/phoneAnim020.jpg?1630518785961", id:"phoneAnim020"},
-		{src:"images/phoneAnim021.jpg?1630518785961", id:"phoneAnim021"},
-		{src:"images/phoneAnim022.jpg?1630518785961", id:"phoneAnim022"},
-		{src:"images/phoneAnim023.jpg?1630518785961", id:"phoneAnim023"},
-		{src:"images/phoneAnim024.jpg?1630518785961", id:"phoneAnim024"},
-		{src:"images/phoneAnim025.jpg?1630518785961", id:"phoneAnim025"},
-		{src:"images/phoneAnim026.jpg?1630518785961", id:"phoneAnim026"},
-		{src:"images/phoneAnim027.jpg?1630518785961", id:"phoneAnim027"},
-		{src:"images/phoneAnim028.jpg?1630518785961", id:"phoneAnim028"},
-		{src:"images/phoneAnim029.jpg?1630518785961", id:"phoneAnim029"},
-		{src:"images/phoneAnim030.jpg?1630518785961", id:"phoneAnim030"},
-		{src:"images/phoneAnim031.jpg?1630518785961", id:"phoneAnim031"},
-		{src:"images/phoneAnim032.jpg?1630518785961", id:"phoneAnim032"},
-		{src:"images/phoneAnim033.jpg?1630518785961", id:"phoneAnim033"},
-		{src:"images/phoneAnim034.jpg?1630518785961", id:"phoneAnim034"},
-		{src:"images/phoneAnim035.jpg?1630518785961", id:"phoneAnim035"},
-		{src:"images/phoneAnim036.jpg?1630518785961", id:"phoneAnim036"},
-		{src:"images/phoneAnim037.jpg?1630518785961", id:"phoneAnim037"},
-		{src:"images/phoneAnim038.jpg?1630518785961", id:"phoneAnim038"},
-		{src:"images/phoneAnim039.jpg?1630518785961", id:"phoneAnim039"},
-		{src:"images/phoneAnim040.jpg?1630518785961", id:"phoneAnim040"},
-		{src:"images/phoneAnim041.jpg?1630518785962", id:"phoneAnim041"},
-		{src:"images/phoneAnim042.jpg?1630518785962", id:"phoneAnim042"},
-		{src:"images/phoneAnim043.jpg?1630518785962", id:"phoneAnim043"},
-		{src:"images/phoneAnim044.jpg?1630518785962", id:"phoneAnim044"},
-		{src:"images/phoneAnim045.jpg?1630518785962", id:"phoneAnim045"},
-		{src:"images/phoneAnim046.jpg?1630518785962", id:"phoneAnim046"},
-		{src:"images/phoneAnim047.jpg?1630518785962", id:"phoneAnim047"},
-		{src:"images/phoneAnim048.jpg?1630518785962", id:"phoneAnim048"},
-		{src:"images/phoneAnim049.jpg?1630518785962", id:"phoneAnim049"},
-		{src:"images/phoneAnim050.jpg?1630518785962", id:"phoneAnim050"},
-		{src:"images/phoneAnim051.jpg?1630518785962", id:"phoneAnim051"},
-		{src:"images/phoneAnim052.jpg?1630518785962", id:"phoneAnim052"},
-		{src:"images/phoneAnim053.jpg?1630518785962", id:"phoneAnim053"},
-		{src:"images/phoneAnim054.jpg?1630518785962", id:"phoneAnim054"},
-		{src:"images/phoneAnim055.jpg?1630518785962", id:"phoneAnim055"},
-		{src:"images/phoneAnim056.jpg?1630518785962", id:"phoneAnim056"},
-		{src:"images/phoneAnim057.jpg?1630518785962", id:"phoneAnim057"},
-		{src:"images/phoneAnim058.jpg?1630518785962", id:"phoneAnim058"},
-		{src:"images/phoneAnim059.jpg?1630518785962", id:"phoneAnim059"},
-		{src:"images/phoneAnim060.jpg?1630518785962", id:"phoneAnim060"},
-		{src:"images/phoneAnim061.jpg?1630518785962", id:"phoneAnim061"},
-		{src:"images/phoneAnim062.jpg?1630518785962", id:"phoneAnim062"},
-		{src:"images/phoneAnim063.jpg?1630518785962", id:"phoneAnim063"},
-		{src:"images/phoneAnim064.jpg?1630518785962", id:"phoneAnim064"},
-		{src:"images/phoneAnim065.jpg?1630518785962", id:"phoneAnim065"},
-		{src:"images/phoneAnim066.jpg?1630518785962", id:"phoneAnim066"},
-		{src:"images/phoneAnim067.jpg?1630518785962", id:"phoneAnim067"},
-		{src:"images/phoneAnim068.jpg?1630518785962", id:"phoneAnim068"},
-		{src:"images/phoneAnim069.jpg?1630518785962", id:"phoneAnim069"},
-		{src:"images/phoneAnim070.jpg?1630518785962", id:"phoneAnim070"},
-		{src:"images/phoneAnim071.jpg?1630518785962", id:"phoneAnim071"},
-		{src:"images/phoneAnim072.jpg?1630518785962", id:"phoneAnim072"},
-		{src:"images/phoneAnim073.jpg?1630518785962", id:"phoneAnim073"},
-		{src:"images/phoneAnim074.jpg?1630518785962", id:"phoneAnim074"},
-		{src:"images/phoneAnim075.jpg?1630518785962", id:"phoneAnim075"},
-		{src:"images/phoneAnim076.jpg?1630518785962", id:"phoneAnim076"},
-		{src:"images/phoneAnim077.jpg?1630518785962", id:"phoneAnim077"},
-		{src:"images/phoneAnim078.jpg?1630518785962", id:"phoneAnim078"},
-		{src:"images/phoneAnim079.jpg?1630518785962", id:"phoneAnim079"},
-		{src:"images/phoneAnim080.jpg?1630518785962", id:"phoneAnim080"},
-		{src:"images/phoneAnim081.jpg?1630518785962", id:"phoneAnim081"},
-		{src:"images/phoneAnim082.jpg?1630518785962", id:"phoneAnim082"},
-		{src:"images/phoneAnim083.jpg?1630518785962", id:"phoneAnim083"},
-		{src:"images/phoneAnim084.jpg?1630518785962", id:"phoneAnim084"},
-		{src:"images/phoneAnim085.jpg?1630518785962", id:"phoneAnim085"},
-		{src:"images/phoneAnim086.jpg?1630518785962", id:"phoneAnim086"},
-		{src:"images/phoneAnim087.jpg?1630518785962", id:"phoneAnim087"},
-		{src:"images/phoneAnim088.jpg?1630518785962", id:"phoneAnim088"},
-		{src:"images/phoneAnim089.jpg?1630518785962", id:"phoneAnim089"},
-		{src:"images/phoneAnim090.jpg?1630518785962", id:"phoneAnim090"},
-		{src:"images/phoneAnim091.jpg?1630518785962", id:"phoneAnim091"},
-		{src:"images/phoneAnim092.jpg?1630518785962", id:"phoneAnim092"},
-		{src:"images/phoneAnim093.jpg?1630518785962", id:"phoneAnim093"},
-		{src:"images/phoneAnim094.jpg?1630518785962", id:"phoneAnim094"},
-		{src:"images/phoneAnim095.jpg?1630518785962", id:"phoneAnim095"},
-		{src:"images/phoneAnim096.jpg?1630518785962", id:"phoneAnim096"},
-		{src:"images/phoneAnim097.jpg?1630518785962", id:"phoneAnim097"},
-		{src:"images/phoneAnim098.jpg?1630518785962", id:"phoneAnim098"},
-		{src:"images/phoneAnim099.jpg?1630518785962", id:"phoneAnim099"},
-		{src:"images/phoneAnim100.jpg?1630518785962", id:"phoneAnim100"},
-		{src:"images/phoneAnim101.jpg?1630518785962", id:"phoneAnim101"},
-		{src:"images/phoneAnim102.jpg?1630518785962", id:"phoneAnim102"},
-		{src:"images/phoneAnim103.jpg?1630518785962", id:"phoneAnim103"},
-		{src:"images/phoneAnim104.jpg?1630518785962", id:"phoneAnim104"},
-		{src:"images/phoneAnim105.jpg?1630518785962", id:"phoneAnim105"},
-		{src:"images/phoneAnim106.jpg?1630518785962", id:"phoneAnim106"},
-		{src:"images/phoneAnim107.jpg?1630518785962", id:"phoneAnim107"},
-		{src:"images/phoneAnim108.jpg?1630518785962", id:"phoneAnim108"},
-		{src:"images/phoneAnim109.jpg?1630518785962", id:"phoneAnim109"},
-		{src:"images/phoneAnim110.jpg?1630518785962", id:"phoneAnim110"},
-		{src:"images/phoneAnim111.jpg?1630518785962", id:"phoneAnim111"},
-		{src:"images/phoneAnim112.jpg?1630518785962", id:"phoneAnim112"},
-		{src:"images/phoneAnim113.jpg?1630518785962", id:"phoneAnim113"},
-		{src:"images/phoneAnim114.jpg?1630518785962", id:"phoneAnim114"},
-		{src:"images/phoneAnim115.jpg?1630518785962", id:"phoneAnim115"}
+		{src:"images/acornslogo1.png?1630594484888", id:"acornslogo1"},
+		{src:"images/Group1212.png?1630594484888", id:"Group1212"},
+		{src:"images/Group141.png?1630594484888", id:"Group141"},
+		{src:"images/iPhone11.png?1630594484888", id:"iPhone11"},
+		{src:"images/landscapeLegal.png?1630594484888", id:"landscapeLegal"},
+		{src:"images/phoneAnim000.jpg?1630594484888", id:"phoneAnim000"},
+		{src:"images/phoneAnim001.jpg?1630594484888", id:"phoneAnim001"},
+		{src:"images/phoneAnim002.jpg?1630594484888", id:"phoneAnim002"},
+		{src:"images/phoneAnim003.jpg?1630594484888", id:"phoneAnim003"},
+		{src:"images/phoneAnim004.jpg?1630594484888", id:"phoneAnim004"},
+		{src:"images/phoneAnim005.jpg?1630594484888", id:"phoneAnim005"},
+		{src:"images/phoneAnim006.jpg?1630594484888", id:"phoneAnim006"},
+		{src:"images/phoneAnim007.jpg?1630594484888", id:"phoneAnim007"},
+		{src:"images/phoneAnim008.jpg?1630594484888", id:"phoneAnim008"},
+		{src:"images/phoneAnim009.jpg?1630594484888", id:"phoneAnim009"},
+		{src:"images/phoneAnim010.jpg?1630594484888", id:"phoneAnim010"},
+		{src:"images/phoneAnim011.jpg?1630594484888", id:"phoneAnim011"},
+		{src:"images/phoneAnim012.jpg?1630594484888", id:"phoneAnim012"},
+		{src:"images/phoneAnim013.jpg?1630594484888", id:"phoneAnim013"},
+		{src:"images/phoneAnim014.jpg?1630594484888", id:"phoneAnim014"},
+		{src:"images/phoneAnim015.jpg?1630594484888", id:"phoneAnim015"},
+		{src:"images/phoneAnim016.jpg?1630594484888", id:"phoneAnim016"},
+		{src:"images/phoneAnim017.jpg?1630594484888", id:"phoneAnim017"},
+		{src:"images/phoneAnim018.jpg?1630594484888", id:"phoneAnim018"},
+		{src:"images/phoneAnim019.jpg?1630594484888", id:"phoneAnim019"},
+		{src:"images/phoneAnim020.jpg?1630594484888", id:"phoneAnim020"},
+		{src:"images/phoneAnim021.jpg?1630594484888", id:"phoneAnim021"},
+		{src:"images/phoneAnim022.jpg?1630594484888", id:"phoneAnim022"},
+		{src:"images/phoneAnim023.jpg?1630594484888", id:"phoneAnim023"},
+		{src:"images/phoneAnim024.jpg?1630594484888", id:"phoneAnim024"},
+		{src:"images/phoneAnim025.jpg?1630594484888", id:"phoneAnim025"},
+		{src:"images/phoneAnim026.jpg?1630594484888", id:"phoneAnim026"},
+		{src:"images/phoneAnim027.jpg?1630594484888", id:"phoneAnim027"},
+		{src:"images/phoneAnim028.jpg?1630594484888", id:"phoneAnim028"},
+		{src:"images/phoneAnim029.jpg?1630594484888", id:"phoneAnim029"},
+		{src:"images/phoneAnim030.jpg?1630594484888", id:"phoneAnim030"},
+		{src:"images/phoneAnim031.jpg?1630594484888", id:"phoneAnim031"},
+		{src:"images/phoneAnim032.jpg?1630594484888", id:"phoneAnim032"},
+		{src:"images/phoneAnim033.jpg?1630594484888", id:"phoneAnim033"},
+		{src:"images/phoneAnim034.jpg?1630594484888", id:"phoneAnim034"},
+		{src:"images/phoneAnim035.jpg?1630594484888", id:"phoneAnim035"},
+		{src:"images/phoneAnim036.jpg?1630594484888", id:"phoneAnim036"},
+		{src:"images/phoneAnim037.jpg?1630594484888", id:"phoneAnim037"},
+		{src:"images/phoneAnim038.jpg?1630594484888", id:"phoneAnim038"},
+		{src:"images/phoneAnim039.jpg?1630594484888", id:"phoneAnim039"},
+		{src:"images/phoneAnim040.jpg?1630594484888", id:"phoneAnim040"},
+		{src:"images/phoneAnim041.jpg?1630594484888", id:"phoneAnim041"},
+		{src:"images/phoneAnim042.jpg?1630594484888", id:"phoneAnim042"},
+		{src:"images/phoneAnim043.jpg?1630594484888", id:"phoneAnim043"},
+		{src:"images/phoneAnim044.jpg?1630594484888", id:"phoneAnim044"},
+		{src:"images/phoneAnim045.jpg?1630594484888", id:"phoneAnim045"},
+		{src:"images/phoneAnim046.jpg?1630594484888", id:"phoneAnim046"},
+		{src:"images/phoneAnim047.jpg?1630594484888", id:"phoneAnim047"},
+		{src:"images/phoneAnim048.jpg?1630594484888", id:"phoneAnim048"},
+		{src:"images/phoneAnim049.jpg?1630594484888", id:"phoneAnim049"},
+		{src:"images/phoneAnim050.jpg?1630594484888", id:"phoneAnim050"},
+		{src:"images/phoneAnim051.jpg?1630594484888", id:"phoneAnim051"},
+		{src:"images/phoneAnim052.jpg?1630594484888", id:"phoneAnim052"},
+		{src:"images/phoneAnim053.jpg?1630594484888", id:"phoneAnim053"},
+		{src:"images/phoneAnim054.jpg?1630594484888", id:"phoneAnim054"},
+		{src:"images/phoneAnim055.jpg?1630594484888", id:"phoneAnim055"},
+		{src:"images/phoneAnim056.jpg?1630594484888", id:"phoneAnim056"},
+		{src:"images/phoneAnim057.jpg?1630594484888", id:"phoneAnim057"},
+		{src:"images/phoneAnim058.jpg?1630594484888", id:"phoneAnim058"},
+		{src:"images/phoneAnim059.jpg?1630594484888", id:"phoneAnim059"},
+		{src:"images/phoneAnim060.jpg?1630594484888", id:"phoneAnim060"},
+		{src:"images/phoneAnim061.jpg?1630594484888", id:"phoneAnim061"},
+		{src:"images/phoneAnim062.jpg?1630594484888", id:"phoneAnim062"},
+		{src:"images/phoneAnim063.jpg?1630594484888", id:"phoneAnim063"},
+		{src:"images/phoneAnim064.jpg?1630594484888", id:"phoneAnim064"},
+		{src:"images/phoneAnim065.jpg?1630594484888", id:"phoneAnim065"},
+		{src:"images/phoneAnim066.jpg?1630594484888", id:"phoneAnim066"},
+		{src:"images/phoneAnim067.jpg?1630594484888", id:"phoneAnim067"},
+		{src:"images/phoneAnim068.jpg?1630594484888", id:"phoneAnim068"},
+		{src:"images/phoneAnim069.jpg?1630594484888", id:"phoneAnim069"},
+		{src:"images/phoneAnim070.jpg?1630594484888", id:"phoneAnim070"},
+		{src:"images/phoneAnim071.jpg?1630594484888", id:"phoneAnim071"},
+		{src:"images/phoneAnim072.jpg?1630594484888", id:"phoneAnim072"},
+		{src:"images/phoneAnim073.jpg?1630594484888", id:"phoneAnim073"},
+		{src:"images/phoneAnim074.jpg?1630594484888", id:"phoneAnim074"},
+		{src:"images/phoneAnim075.jpg?1630594484888", id:"phoneAnim075"},
+		{src:"images/phoneAnim076.jpg?1630594484888", id:"phoneAnim076"},
+		{src:"images/phoneAnim077.jpg?1630594484888", id:"phoneAnim077"},
+		{src:"images/phoneAnim078.jpg?1630594484888", id:"phoneAnim078"},
+		{src:"images/phoneAnim079.jpg?1630594484888", id:"phoneAnim079"},
+		{src:"images/phoneAnim080.jpg?1630594484888", id:"phoneAnim080"},
+		{src:"images/phoneAnim081.jpg?1630594484888", id:"phoneAnim081"},
+		{src:"images/phoneAnim082.jpg?1630594484888", id:"phoneAnim082"},
+		{src:"images/phoneAnim083.jpg?1630594484888", id:"phoneAnim083"},
+		{src:"images/phoneAnim084.jpg?1630594484888", id:"phoneAnim084"},
+		{src:"images/phoneAnim085.jpg?1630594484888", id:"phoneAnim085"},
+		{src:"images/phoneAnim086.jpg?1630594484888", id:"phoneAnim086"},
+		{src:"images/phoneAnim087.jpg?1630594484888", id:"phoneAnim087"},
+		{src:"images/phoneAnim088.jpg?1630594484888", id:"phoneAnim088"},
+		{src:"images/phoneAnim089.jpg?1630594484888", id:"phoneAnim089"},
+		{src:"images/phoneAnim090.jpg?1630594484888", id:"phoneAnim090"},
+		{src:"images/phoneAnim091.jpg?1630594484888", id:"phoneAnim091"},
+		{src:"images/phoneAnim092.jpg?1630594484888", id:"phoneAnim092"},
+		{src:"images/phoneAnim093.jpg?1630594484888", id:"phoneAnim093"},
+		{src:"images/phoneAnim094.jpg?1630594484888", id:"phoneAnim094"},
+		{src:"images/phoneAnim095.jpg?1630594484888", id:"phoneAnim095"},
+		{src:"images/phoneAnim096.jpg?1630594484888", id:"phoneAnim096"},
+		{src:"images/phoneAnim097.jpg?1630594484888", id:"phoneAnim097"},
+		{src:"images/phoneAnim098.jpg?1630594484888", id:"phoneAnim098"},
+		{src:"images/phoneAnim099.jpg?1630594484888", id:"phoneAnim099"},
+		{src:"images/phoneAnim100.jpg?1630594484888", id:"phoneAnim100"},
+		{src:"images/phoneAnim101.jpg?1630594484888", id:"phoneAnim101"},
+		{src:"images/phoneAnim102.jpg?1630594484888", id:"phoneAnim102"},
+		{src:"images/phoneAnim103.jpg?1630594484888", id:"phoneAnim103"},
+		{src:"images/phoneAnim104.jpg?1630594484888", id:"phoneAnim104"},
+		{src:"images/phoneAnim105.jpg?1630594484888", id:"phoneAnim105"},
+		{src:"images/phoneAnim106.jpg?1630594484888", id:"phoneAnim106"},
+		{src:"images/phoneAnim107.jpg?1630594484888", id:"phoneAnim107"},
+		{src:"images/phoneAnim108.jpg?1630594484888", id:"phoneAnim108"},
+		{src:"images/phoneAnim109.jpg?1630594484888", id:"phoneAnim109"},
+		{src:"images/phoneAnim110.jpg?1630594484888", id:"phoneAnim110"},
+		{src:"images/phoneAnim111.jpg?1630594484888", id:"phoneAnim111"},
+		{src:"images/phoneAnim112.jpg?1630594484888", id:"phoneAnim112"},
+		{src:"images/phoneAnim113.jpg?1630594484888", id:"phoneAnim113"},
+		{src:"images/phoneAnim114.jpg?1630594484888", id:"phoneAnim114"},
+		{src:"images/phoneAnim115.jpg?1630594484888", id:"phoneAnim115"}
 	],
 	preloads: []
 };
